@@ -37,7 +37,8 @@ sass:
   sass_dir: _sass
   style: compressed # You can use expanded, nested, or compact as per your needs.
 
-
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
