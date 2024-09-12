@@ -2,12 +2,30 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
 
+body{
+  font-size: 21px !important;
+}
 
-.arabic-text {
+
+*{
+  box-sizing: content-box !important; /* Change it to content-box or any other value you want */
+
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin-top: 11px !important;
+  margin-bottom: 11px !important;
+  padding-top: 11px !important;
+  padding-bottom: 11px !important;
+}
+
+
+.ar {
   font-family: "Amiri Quran", serif;
   font-weight: 400;
   font-style: normal;
 }
+
 
 
 

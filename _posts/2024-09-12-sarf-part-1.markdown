@@ -1,42 +1,57 @@
 ---
 layout: post
-title:  "Sarf Part 1"
+title:  "Sarf Families"
 date:   2024-09-12 11:11:18 +0530
 categories: arabic sarf
 ---
 
-![Alt Text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/nafi2ifvn5qxvg4frihn "main")
+![Alt Text](https://res.cloudinary.com/ddymelpa3/image/upload/v1726152933/arabic%20blogs/sarf%20part%201/qo0dxkwvgpmbj9vxbvh8.png "main")
 
 
-# Sarf <span class="arabic-text" >صرف</span> 
+# Sarf <span class="ar text-2xl" >صرف</span> 
 
 ### Resources: 
 - [ejtaal.net](http://ejtaal.net) - Lane's Lexicon, Hans Wehr
 - [Arabic nahw & sarf Blogs](https://thearabicpages.com/)
 - [Quran Hive - Sarf of word](https://quranhive.com/surah/)
 
-All <span class="arabic-text" >  ‫صرف‬  </span>families can be grouped into two large groups.
+All <span class="ar text-2xl" >  ‫صرف‬  </span>families can be grouped into two large groups.
 
-### 1. <span class="arabic-text" > ‫المُجَرَّد‬ </span> 
+## 1. <span class="ar text-4xl" > ‫المُجَرَّد‬ </span> 
 The distinguishing feature of these families is that their container (in the هو version of past tense) has no extra letters, it only consists of حركات (vowels). For example: 
 
+<span class="ar text-4xl">
 نَصَرَ   كَرُمَ  سَمِعَ    ضَرَبَ   فَهِمَ   كَبُرَ  
+</span>
+
 
 Families in this category are unique and have additional members:  
-- اسم الة (tools/devices)  
-- اسم تفضيل (comparative/superlatives)  
-- اسم صفة (adjectives for permanent qualities)  
-- اسم مُبالَغَة (a hyperbolized form of اسم فاعل)
+- <span class="ar text-3xl"> اسم الة </span>(tools/devices)  
+- <span class="ar text-3xl">  اسم تفضيل </span>(comparative/superlatives)  
+- <span class="ar text-3xl">  اسم صفة </span>(adjectives for permanent qualities)  
+- <span class="ar text-3xl">  اسم مُبالَغَة </span> (a hyperbolized form of اسم فاعل)
 
-### 2. <span class="arabic-text" >  المَزِيْد فِيْه </span>
+### 2. <span class="ar text-4xl" >  المَزِيْد فِيْه </span>
 The container always consists of extra letters in addition to the حركات (vowels).
 
 Examples:
+<span class="ar text-4xl">
 اِنْقلب  أسلم  جاهد    تفرّق   تعاوَنَ    اِستغفر  
+</span>
+
+---
+<div class="bg-yellow-200 text-lg">
+    Note :
+
+    It is very important to memorize all the families starting from Family 2 to 10 First,
+    Then memorizing all the families of <span class="ar" > ‫المُجَرَّد‬ </span> 
+    before moving forward in the Sarf Study
+</div>
+
 
 ---
 
-### Family 2: <span class="arabic-text" >  باب تَفْعِيْل  </span>
+### Family 2: <span class="ar" >  باب تَفْعِيْل  </span>
 In Classical Arabic tradition, name follows the pattern of Masdar.
 
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/d5eeyvsyxtp88hhrwta8 "family 2")
@@ -49,7 +64,7 @@ This pattern can also imply hyperbole. For example, قَتَّلَ means to mass
 
 ---
 
-### <span class="arabic-text">Family 3: باب مُفَاعَلَة (Mufāʿala)</span>
+### <span class="ar">Family 3: باب مُفَاعَلَة (Mufāʿala)</span>
 There are 2 Masdars, with the second one being more commonly used in modern Arabic.
 
 ![Alt Text]( https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/namwegjzjikww9zqegj6 "family 3" )
@@ -60,7 +75,7 @@ For example, عاقب means to punish, which is something one individual/party d
 
 ---
 
-### Family 4:  <span class="arabic-text" > باب إفعال </span>
+### Family 4:  <span class="ar" > باب إفعال </span>
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/bqspj3oa8hdldlu8hzkb "family 4")
 
 #### Rhetorical Implications of Family 4:
@@ -69,7 +84,7 @@ For example, أَنَزَلَ means to send something down immediately and at on
 
 ---
 
-### Family 5: <span class="arabic-text" >  باب تفعُّلً  </span>
+### Family 5: <span class="ar" >  باب تفعُّلً  </span>
 
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/lkamo0lm1odv3ziuxkyq "family 5")
 

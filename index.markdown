@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<h1 class="ar text-center text-3xl my-3" > بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم </h1>
