@@ -30,8 +30,7 @@ twitter_username: Huzaifa92912561
 github_username:  Huzaifa-code
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   
