@@ -3,6 +3,7 @@ layout: post
 title:  "How to use dictionary for sarf study ?"
 date:   2024-09-12 4:30:18 +0530
 categories: arabic sarf
+author: Huzaifa Qureshi
 ---
 
 
