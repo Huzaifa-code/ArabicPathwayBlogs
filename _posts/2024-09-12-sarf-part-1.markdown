@@ -10,10 +10,6 @@ categories: arabic sarf
 
 # Sarf <span class="ar text-2xl" >صرف</span> 
 
-### Resources: 
-- [ejtaal.net](http://ejtaal.net) - Lane's Lexicon, Hans Wehr
-- [Arabic nahw & sarf Blogs](https://thearabicpages.com/)
-- [Quran Hive - Sarf of word](https://quranhive.com/surah/)
 
 All <span class="ar text-2xl" > صرف  </span>families can be grouped into two large groups.
 
@@ -92,3 +88,11 @@ For example, أَنَزَلَ means to send something down immediately and at on
 #### Rhetorical Implications of Family 5:
 Words from this family are predominantly لازم (intransitive) and can sometimes imply that the action took effort to complete.
 
+
+
+
+
+### Resources: 
+- [ejtaal.net](http://ejtaal.net) - Lane's Lexicon, Hans Wehr
+- [Arabic nahw & sarf Blogs](https://thearabicpages.com/)
+- [Quran Hive - Sarf of word](https://quranhive.com/surah/)
