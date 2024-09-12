@@ -126,7 +126,12 @@
   justify-content: space-between;
   color: $grey-color;
   // margin-left: -$spacing-unit * 0.5;
-  // @extend %clearfix;
+  @extend %clearfix;
+
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+  }
+
 }
 
 .footer-col {

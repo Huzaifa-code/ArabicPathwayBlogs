@@ -15,9 +15,9 @@ categories: arabic sarf
 - [Arabic nahw & sarf Blogs](https://thearabicpages.com/)
 - [Quran Hive - Sarf of word](https://quranhive.com/surah/)
 
-All <span class="ar text-2xl" >  ‫صرف‬  </span>families can be grouped into two large groups.
+All <span class="ar text-2xl" > صرف  </span>families can be grouped into two large groups.
 
-## 1. <span class="ar text-4xl" > ‫المُجَرَّد‬ </span> 
+## 1. <span class="ar text-4xl" > المُجَرَّد </span> 
 The distinguishing feature of these families is that their container (in the هو version of past tense) has no extra letters, it only consists of حركات (vowels). For example: 
 
 <span class="ar text-4xl">
@@ -44,7 +44,7 @@ Examples:
     Note :
 
     It is very important to memorize all the families starting from Family 2 to 10 First,
-    Then memorizing all the families of <span class="ar" > ‫المُجَرَّد‬ </span> 
+    Then memorizing all the families of <span class="ar" > المُجَرَّد </span> 
     before moving forward in the Sarf Study
 </div>
 
