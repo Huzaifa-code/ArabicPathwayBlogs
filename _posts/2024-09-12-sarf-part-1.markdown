@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Sarf Part 1"
+date:   2024-09-12 11:11:18 +0530
+categories: arabic sarf
+---
+# Sarf <span class="arabic-text" >صرف</span> 
+
+### Resources: 
+- [ejtaal.net](http://ejtaal.net) - Lane's Lexicon, Hans Wehr
+- [Arabic nahw & sarf Blogs](https://thearabicpages.com/)
+- [Quran Hive - Sarf of word](https://quranhive.com/surah/)
+
+All <span class="arabic-text" >  ‫صرف‬  </span>families can be grouped into two large groups.
+
+### 1. <span class="arabic-text" > ‫المُجَرَّد‬ </span> 
+The distinguishing feature of these families is that their container (in the هو version of past tense) has no extra letters, it only consists of حركات (vowels). For example: 
+
+نَصَرَ   كَرُمَ  سَمِعَ    ضَرَبَ   فَهِمَ   كَبُرَ  
+
+Families in this category are unique and have additional members:  
+- اسم الة (tools/devices)  
+- اسم تفضيل (comparative/superlatives)  
+- اسم صفة (adjectives for permanent qualities)  
+- اسم مُبالَغَة (a hyperbolized form of اسم فاعل)
+
+### 2. <span class="arabic-text" >  المَزِيْد فِيْه </span>
+The container always consists of extra letters in addition to the حركات (vowels).
+
+Examples:
+اِنْقلب  أسلم  جاهد    تفرّق   تعاوَنَ    اِستغفر  
+
+---
+
+### Family 2: <span class="arabic-text" >  باب تَفْعِيْل  </span>
+In Classical Arabic tradition, name follows the pattern of Masdar.
+
+![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/d5eeyvsyxtp88hhrwta8 "family 2")
+
+#### Rhetorical Implications of Family 2: 
+Words from this family are generally مُتَعَدٍّ and indicate that the action is repetitive and takes place over a long period of time.  
+For example, نَزَّلَ means to reveal gradually and repetitively over time. This verb is used to describe the revelation of the Quran over 23 years.
+
+This pattern can also imply hyperbole. For example, قَتَّلَ means to massacre, whereas قَتَلَ simply means to kill.
+
+---
+
+### <span class="arabic-text">Family 3: باب مُفَاعَلَة (Mufāʿala)</span>
+There are 2 Masdars, with the second one being more commonly used in modern Arabic.
+
+![Alt Text]( https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/namwegjzjikww9zqegj6 "family 3" )
+
+#### Rhetorical Implications of Family 3:
+Action is directed from one individual/party to another.  
+For example, عاقب means to punish, which is something one individual/party does to another.
+
+---
+
+### Family 4:  <span class="arabic-text" > باب إفعال </span>
+![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/bqspj3oa8hdldlu8hzkb "family 4")
+
+#### Rhetorical Implications of Family 4:
+Action is completed immediately and all at once.  
+For example, أَنَزَلَ means to send something down immediately and at once.
+
+---
+
+### Family 5: <span class="arabic-text" >  باب تفعُّلً  </span>
+
+![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/lkamo0lm1odv3ziuxkyq "family 5")
+
+
+#### Rhetorical Implications of Family 5:
+Words from this family are predominantly لازم (intransitive) and can sometimes imply that the action took effort to complete.
+
+
+## **Dictionary** :
+
+## **Quran Hive** :
+
+[Quran Hive - Sarf of word](https://quranhive.com/surah/)
+
+![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/ppe0wojtkipnbk9ipve6 "Quran Hive")
+
+
+## Hans Wehr 
+
+Modern Writter Arabic written mid 1900s by Hans wehr, a German orientalist.
+Be Aware that there might be variation sometimes in classical and modern definitions of the same word.
+
+[ejtaal.net](http://ejtaal.net)
+
+![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/q7nt9agmsw6uzkgadjqt "hans wehr")
