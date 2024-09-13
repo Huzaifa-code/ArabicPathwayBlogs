@@ -38,13 +38,33 @@ Blog on Abbrevations in Hans Wehr :  [https://thearabicpages.com/2020/12/06/refe
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kcQw_yMkm3I?si=iBLw65CWfkWrr6cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## **Quran Hive** :
+## Quran Hive :
 
 Quran Hive - Sarf of word : [quranhive.com/surah](https://quranhive.com/surah/)
 
 ![Alt text](https://i.imgur.com/KuVkrNl.png "quran hive")
 
+Click on Learn Button and select I'raab(Grammar) to see I'raab of the ayah
+
+![Alt text](https://i.imgur.com/vUqIbxI.png "I'raab")
+
+Click in 'i' button that appears on hovering over a word in ayah 
+
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/ppe0wojtkipnbk9ipve6 "Quran Hive")
+
+
+## Aratools
+
+AraTools.com [aratools.com](https://aratools.com) is an online resource that helps you look up Arabic words, find their root letters, and explore their meanings
+
+AraTools will break down the word, showing:
+
+- Root letters of the word.
+- Conjugations and derivations from the root.
+- Possible meanings and definitions for the word and its variations.
+
+
+![alt text](https://i.imgur.com/zjbEznu.png "aratools")
 
 
 ## How to Use Lane's Lexicon for Qur'anic Arabic Study
