@@ -157,28 +157,122 @@
   @include relative-font-size(2);
 }
 
+.video {
+  width: 75%;
+  border-radius: 1rem;
+  display: block;          // Ensure the element behaves as a block
+  margin: 11px auto;          // Center the element horizontally
+
+  @media screen and (max-width: 700px) {
+    width: 100%;
+  }
+}
+
+.note {
+  background-color: #fffde7;
+  border-left: 4px solid #ffd54f;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 16px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #333333;
+  line-height: 1.6;
+  margin: 20px 0;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.note::before {
+  content: '📝';
+  position: absolute;
+  top: -5px;
+  right: 10px;
+  font-size: 24px;
+  opacity: 0.3;
+  transform: rotate(15deg);
+}
+
+.note:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+@media (prefers-color-scheme: dark) { // os system setting - dark mode
+  .note {
+    background-color: #2d2d2d;
+    border-left-color: #ffd54f;
+    color: #e0e0e0;
+  }
+}
+
+
+
 .post-list-heading {
   @include relative-font-size(1.75);
 }
 
 .post-list {
-  margin-left: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 11px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    > a {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+    }
   }
 }
+
+
 
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
 }
 
+.post-category {
+  display: flex;
+  gap: 11px;
+
+  p {
+    margin: 0 0 !important;
+    background-color: $secondary-color;
+    color: white;
+    padding: 3px 13px;
+    border-radius: 2rem;
+    font-size: small;
+  }
+}
+
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+
+  &:hover {
+    text-decoration: none;
+  } 
 }
+
 
 
 

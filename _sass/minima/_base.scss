@@ -8,6 +8,7 @@
 //   padding: 0;
 // }
 
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
 
 
 /**
@@ -28,6 +29,15 @@ body {
   flex-direction: column;
 }
 
+// Automatically apply Arabic font to Arabic text using lang attribute
+*:lang(ar) {
+  font-family: "Amiri Quran", serif;
+}
+
+// Optionally, apply Arabic font based on right-to-left text direction
+[dir="rtl"] {
+  font-family: "Amiri Quran", serif;
+}
 
 
 /**

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sarf Families"
+title:  "Sarf Families Part 1"
 date:   2024-09-12 11:11:18 +0530
-categories: arabic sarf
+categories: sarf morphology
 author: Huzaifa Qureshi
 ---
 
@@ -32,12 +32,12 @@ Families in this category are unique and have additional members:
 The container always consists of extra letters in addition to the حركات (vowels).
 
 Examples:
-<span class="ar text-4xl">
+<span class="ar">
 اِنْقلب  أسلم  جاهد    تفرّق   تعاوَنَ    اِستغفر  
 </span>
 
----
-<div class="bg-yellow-200 text-lg">
+
+<div class="note">
     Note :
 
     It is very important to memorize all the families starting from Family 2 to 10 First,
@@ -93,7 +93,7 @@ Words from this family are predominantly لازم (intransitive) and can sometim
 
 ### Dream Intensive 3 Playlist - Ustadh Nouman Ali Khan  :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s16wETqE0SXAVlMd&amp;list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s16wETqE0SXAVlMd&amp;list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
