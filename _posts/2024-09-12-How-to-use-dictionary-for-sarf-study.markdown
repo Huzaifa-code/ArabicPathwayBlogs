@@ -40,8 +40,34 @@ Blog on Abbrevations in Hans Wehr :  [https://thearabicpages.com/2020/12/06/refe
 
 ## **Quran Hive** :
 
-[Quran Hive - Sarf of word](https://quranhive.com/surah/)
+Quran Hive - Sarf of word : [quranhive.com/surah](https://quranhive.com/surah/)
+
+![Alt text](https://i.imgur.com/KuVkrNl.png "quran hive")
 
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/ppe0wojtkipnbk9ipve6 "Quran Hive")
+
+
+## How to Use Lane's Lexicon for Qur'anic Arabic Study
+
+Lane’s Lexicon is an invaluable resource for anyone studying classical Arabic, especially the language of the Qur'an. This dictionary provides deep insights into the root meanings of Arabic words, helping you understand the context and richness behind Qur'anic terms.
+
+Lane's Lexicon is available at (Check under menu & move LL upward) : [https://ejtaal.net/aa](https://ejtaal.net/aa) 
+
+
+Lane’s Lexicon is structured like most dictionaries, but it doesn’t alphabetize words based on their surface forms. Instead, all words are indexed under their root.
+
+Each root entry in Lane's Lexicon includes:
+- Meanings: Core meanings of the root and its derivatives.
+- Qur'anic Contexts: It often lists where the word appears in the Qur'an and how it is used.
+- Scholarly Notes: Lane included notes from classical scholars and lexicographers
+
+Let’s say you’re studying the word rahmah (mercy) in the Qur’an, which comes from the root ر ح م (r-ḥ-m). Open Lane’s Lexicon to the root "r-ḥ-m" to explore all its derivations like raḥīm (merciful) and raḥmān (compassionate), along with detailed explanations and how these words are used in Islamic texts.
+
+
+![Alt text](https://i.imgur.com/pQQFqZ2.png "LL1")
+![Alt text](https://i.imgur.com/SZ7rk7z.png "LL2") 
+
+After finding a word’s meaning in Lane’s Lexicon, see a tafsir for the Qur'anic context. This will help solidify understanding of how the word is used within the broader Qur'anic message.
+
 
 
