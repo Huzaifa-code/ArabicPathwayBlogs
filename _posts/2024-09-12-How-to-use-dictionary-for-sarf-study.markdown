@@ -4,6 +4,7 @@ title:  "How to use dictionary for sarf study ?"
 date:   2024-09-12 4:30:18 +0530
 categories: sarf 
 author: Huzaifa Qureshi
+img: https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/gi2vwptyqgtyrxx2tiov
 ---
 
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/gi2vwptyqgtyrxx2tiov "dict")

@@ -14,8 +14,10 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-
         <a class="post-link" href="{{ post.url | relative_url }}">
+
+          <img src={{post.img}} alt="main image">
+
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
