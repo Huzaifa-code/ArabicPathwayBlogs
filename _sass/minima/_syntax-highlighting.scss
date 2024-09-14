@@ -69,3 +69,23 @@
   .vi    { color: #008080 } // Name.Variable.Instance
   .il    { color: #099 } // Literal.Number.Integer.Long
 }
+
+// Quran Ayah
+.q{
+  font-size: 2.5rem;
+  line-height: 2.2;
+  direction: rtl;
+  font-family: "Amiri Quran", serif;
+  font-weight: 500;
+  font-style: normal;
+
+  background-color: #fcfcfc; /* Light grey background for highlighting */
+  padding: 30px 15px; /* Adds padding around the text */
+  border-left: 5px solid $brand-color; /* A blue border for emphasis */
+  border-radius: 8px; /* Slightly rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+.hl{
+  background-color: rgba(255, 217, 0, 0.781);
+}

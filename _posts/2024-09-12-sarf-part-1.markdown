@@ -91,6 +91,28 @@ For example, أَنَزَلَ means to send something down immediately and at on
 Words from this family are predominantly لازم (intransitive) and can sometimes imply that the action took effort to complete.
 
 
+### Transitive v/s Intransitive Fi'l <span class="ar">فعل</span> 
+
+1 .  Transitive Fi'l (متعدٍ):
+A transitive Fi'l is one that requires a direct object to make sense. The action of the Fi'l moves from the subject to an object. In Arabic, these Fi'ls are known as Fi‘l Muta‘addi (فعل متعدٍ).
+Example:
+أَنزَلَ (anzala) – "He sent down."
+<p class="q"> ٱللَّهُ ٱلَّذِىٓ  أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ  وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌۭ ١٧ </p>
+The verb "sent down" requires an object (the book) to complete its meaning.
+
+
+2 .  Intransitive Fi'l (لازم):
+An intransitive Fi'l is one that does not require an object to complete its meaning. The action is complete in itself and does not transfer to an object. In Arabic, these are called Fi‘l Lazim (فعل لازم).
+
+Example:
+جَاءَ (jaa’a) – "He came."
+The verb "came" does not need an object to complete its meaning.
+
+<p class="note">
+Important Note:
+Some verbs in Arabic can be both transitive and intransitive depending on the context and additional elements (like prepositions). For example, ذَهَبَ (dhahaba) can be intransitive, meaning "he went," but when combined with a preposition, it can take an object, such as ذهب إلى (dhahaba ila – "he went to").
+</p>
+
 
 ### Dream Intensive 3 Playlist - Ustadh Nouman Ali Khan  :
 

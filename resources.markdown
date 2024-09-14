@@ -21,6 +21,8 @@ permalink: /resources/
 - <a href="#tf">tafsir.app</a> 
 - <a href="#al">almaany - https://www.almaany.com/ar/dict/ar-ar/</a> 
 
+Resources to Learn Arabic to understand the Quran
+
 <span id="nt"></span>
 ## Notes :
 - Intensive notes Sangeen Khan :  [Link](https://drive.google.com/drive/folders/1MjYpGccwl2p636SHzO48g0d9bw0uUae7)
