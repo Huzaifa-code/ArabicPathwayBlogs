@@ -15,9 +15,9 @@ img: https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%2
 
 - Modern Writter Arabic written mid 1900s by Hans wehr, a German orientalist.
 - Be Aware that there might be variation sometimes in classical and modern definitions of the same word.
-- First Figure out the root letters of <span class="ar" >فِعْلٌ</span> (Fi'l) , and then search the root letters in the dictionary
-- In the begining there will be a alphabet ( 'a' / 'u' / 'i' ), which represents the <span class="ar"> حركات </span> on the ع letter of <span class="ar"> فعل مضارع </span>
-- Next will be the Masdar <span class="ar"> مصدر </span>
+- First Figure out the root letters of فِعْلٌ (Fi'l) , and then search the root letters in the dictionary
+- In the begining there will be a alphabet ( 'a' / 'u' / 'i' ), which represents the  حركات  on the ع letter of  فعل مضارع 
+- Next will be the Masdar  مصدر 
 - It shows Family 1 meaning first followed by Family 2-10 if they exist
 - Any word that share same root letters but are not part of sarf families are shown at last after Family 1-10
 - Harf in the Bracket shows how meaning changes when used with harf
