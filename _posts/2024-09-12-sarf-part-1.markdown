@@ -55,7 +55,7 @@ In Classical Arabic tradition, name follows the pattern of Masdar.
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/d5eeyvsyxtp88hhrwta8 "family 2")
 
 #### Rhetorical Implications of Family 2: 
-Words from this family are generally مُتَعَدٍّ and indicate that the action is repetitive and takes place over a long period of time.  
+Words from this family are generally مُتَعَدٍّ and indicate that the action is <span class="hl">repetitive and takes place over a long period of time</span> .  
 For example, نَزَّلَ means to reveal gradually and repetitively over time. This verb is used to describe the revelation of the Quran over 23 years.
 
 This pattern can also imply hyperbole. For example, قَتَّلَ means to massacre, whereas قَتَلَ simply means to kill.
@@ -68,7 +68,7 @@ There are 2 Masdars, with the second one being more commonly used in modern Arab
 ![Alt Text]( https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/namwegjzjikww9zqegj6 "family 3" )
 
 #### Rhetorical Implications of Family 3:
-Action is directed from one individual/party to another.  
+Action is <span class="hl">directed</span>  from one individual/party to another.  
 For example, عاقب means to punish, which is something one individual/party does to another.
 
 ---
@@ -77,7 +77,7 @@ For example, عاقب means to punish, which is something one individual/party d
 ![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/bqspj3oa8hdldlu8hzkb "family 4")
 
 #### Rhetorical Implications of Family 4:
-Action is completed immediately and all at once.  
+Action is completed <span class="hl">immediately</span>  and all at once.  
 For example, أَنَزَلَ means to send something down immediately and at once.
 
 ---
@@ -88,7 +88,7 @@ For example, أَنَزَلَ means to send something down immediately and at on
 
 
 #### Rhetorical Implications of Family 5:
-Words from this family are predominantly لازم (intransitive) and can sometimes imply that the action took effort to complete.
+Words from this family are predominantly <span class="hl ar"> لازم (intransitive)</span> and can sometimes imply that the action took <span class="hl">effort</span>  to complete.
 
 
 ### Transitive v/s Intransitive Fi'l <span class="ar">فعل</span> 
