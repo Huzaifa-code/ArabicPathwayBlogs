@@ -15,25 +15,25 @@ img: https://res.cloudinary.com/ddymelpa3/image/upload/v1726152933/arabic%20blog
 
 All <span class="ar text-2xl" > صرف  </span>families can be grouped into two large groups.
 
-## 1. <span class="ar text-4xl" > المُجَرَّد </span> 
+### 1. <span class="ar text-4xl" > المُجَرَّد </span> 
 The distinguishing feature of these families is that their container (in the هو version of past tense) has no extra letters, it only consists of حركات (vowels). For example: 
 
-<span class="ar text-4xl">
+<span class="ar xl">
 نَصَرَ   كَرُمَ  سَمِعَ    ضَرَبَ   فَهِمَ   كَبُرَ  
 </span>
 
 
 Families in this category are unique and have additional members:  
-- <span class="ar text-3xl"> اسم الة </span>(tools/devices)  
-- <span class="ar text-3xl">  اسم تفضيل </span>(comparative/superlatives)  
-- <span class="ar text-3xl">  اسم صفة </span>(adjectives for permanent qualities)  
-- <span class="ar text-3xl">  اسم مُبالَغَة </span> (a hyperbolized form of اسم فاعل)
+- <span class="ar xl"> اسم الة </span>(tools/devices)  
+- <span class="ar xl">  اسم تفضيل </span>(comparative/superlatives)  
+- <span class="ar xl">  اسم صفة </span>(adjectives for permanent qualities)  
+- <span class="ar xl">  اسم مُبالَغَة </span> (a hyperbolized form of اسم فاعل)
 
 ### 2. <span class="ar text-4xl" >  المَزِيْد فِيْه </span>
 The container always consists of extra letters in addition to the حركات (vowels).
 
 Examples:
-<span class="ar">
+<span class="ar xl">
 اِنْقلب  أسلم  جاهد    تفرّق   تعاوَنَ    اِستغفر  
 </span>
 

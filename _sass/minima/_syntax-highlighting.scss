@@ -87,6 +87,21 @@
 }
 
 .hl{
-  background-color: rgba(243, 255, 74, 0.719);
+  // background-color: rgba(243, 255, 74, 0.719);
   border-radius: 11px;
+  display: inline-block; // Ensure the highlight wraps only around the text
+  height: 1.2em; // Fixed height
+  position: relative; // Required to position the ::after pseudo-element
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(243, 255, 74, 0.719); // Same background color
+    z-index: -1; // Ensure it appears behind the text
+    border-radius: 11px;
+  }
 }
