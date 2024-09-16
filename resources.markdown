@@ -14,6 +14,7 @@ permalink: /resources/
 - <a href="#nt">Notes</a> 
 - <a href="#bk">Books</a> 
 - <a href="#wb">Webistes & Blogs</a> 
+- <a href="#yt">YouTube Arabic Resources</a> 
 - <a href="#qh">Quran Hive - quranhive.com</a> 
 - <a href="#ara">Aratools - aratools.com</a> 
 - <a href="#cq">corpus quran</a> 
@@ -69,11 +70,41 @@ Resources to Learn Arabic to understand the Quran
 
 
 <span id="wb"></span>
-## Webistes & Blogs
+## Blogs & other Webistes
 - [https://motivatedsisters.com/](https://motivatedsisters.com/)
 - Two good websites for practicing Arabic reading. Tap on words to check harakat : [https://arabic.ba](https://arabic.ba) , [https://arabicreadings.com/](https://arabicreadings.com/)
 - [https://thearabicpages.com/](https://thearabicpages.com/)
+- [https://arabicblog.info/](https://arabicblog.info/)
 
+<span id="yt"></span>
+## YouTube Arabic Resources 
+- Bayyinah Dream [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q), [Intensive 2](https://youtube.com/playlist?list=PLutdSTmJ7bAJ9IT9MY03oX0HDOLAXKRRp&si=27a2Iwz_pLrRPig-), [Intensive 3](https://youtube.com/playlist?list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI&si=2ITve28E6kmWzr6_), [Intensive 4](https://youtube.com/playlist?list=PLutdSTmJ7bALtCYBhJwP6E1ydBalwhHS1&si=q3mJMPCFTwBvpfyH), [Study Session](https://youtube.com/playlist?list=PLutdSTmJ7bALQVpun2dB6gY7ekBOymqSC&si=xf0uwbZYM-itBILT)
+- [Lisan ul Quran Amir Sohail](https://www.youtube.com/@lisanulquran)
+- [The Arabic Guide](https://www.youtube.com/@TheArabicGuide)
+- [Nur Arabic Class](https://www.youtube.com/@nurarabicclass)
+- [Arabic with Zartash](https://www.youtube.com/@arabicwithzartash)
+- [Arabic Grammar with Sister Shamim](https://www.youtube.com/@arabicgrammarwithsistersha6533)
+- [Quranic Arabic Grammar By Sister Saima Sandhu](https://www.youtube.com/@quranicarabicgrammar)
+- [Ilham Amin](https://www.youtube.com/@ilhaminations)
+- Al-Qalam Institute [channel link](https://www.youtube.com/@AlQalamInstitute) 
+    - Basic : 
+        - [First Steps To Understanding Nahw](https://www.youtube.com/playlist?list=PLzn0qdi6JpduLYJhzKttH2jLD6953gBsb), 
+        - [First Steps To Understanding Sarf](https://youtube.com/playlist?list=PLzn0qdi6JpdvWf0IDGNfaiM-okPqDuQoc&si=BbIcUdvKSbxg_jWz), 
+        - Sarf Families - [Bina al-Afaal (بناء الأفعال)](https://www.youtube.com/playlist?list=PLzn0qdi6Jpdv3JxWc4qSdDEd_m14IeSrw)
+        - [Tarkib and Irab](https://www.youtube.com/playlist?list=PLzn0qdi6JpdsmviGaI1f2yIz3sObLO1dp) , 
+    - Intermediate Arabic : 
+        - [First Steps To Understanding Arabic](https://www.youtube.com/playlist?list=PLzn0qdi6JpdtYROmDjASD8rHQm7kowfLi) , 
+        - [Hidayatun Nahw (هداية النحو) ](https://www.youtube.com/playlist?list=PLzn0qdi6JpdtdAyaM2yvvY1Yk9i4EpLHD), 
+        - [Nuktatul Irab (نكتة الإعراب) ](https://www.youtube.com/playlist?list=PLzn0qdi6JpdtiDZzyl84UrJFupXsr5Vhj) , 
+        - Qatar An-nada قطر الندى وبل الصدى - Nahw covers topics like the roles of nouns, verbs, particles, the subject-predicate structure, the nominative, accusative, and genitive cases, and other essential aspects of Arabic grammar. [Qatr An-Nada](https://www.youtube.com/playlist?list=PLzn0qdi6JpdtENtwoREkv4fA4S4yZXUf-)
+    - Advance Arabic : 
+        - [Irab al-Quran](https://www.youtube.com/playlist?list=PLzn0qdi6Jpdt7lbwz1V1lDhRxnG6EURrB) ,
+        - Sarf Families Rhetorical Implications - Dr. Fadhel Al-Samarrai [Ma'ani al-Abniyah (معاني الأبنية)](https://www.youtube.com/playlist?list=PLzn0qdi6JpdslQYIbNDLggG--Bn5nYvDh)
+        - [First Steps To Understanding Balagah](https://www.youtube.com/playlist?list=PLzn0qdi6JpduDfGlrbMhAWg2lNzdd7OA1),  
+        - [Duroosul Balagah](https://www.youtube.com/playlist?list=PLzn0qdi6JpdvvXVuJ7kIusNquSxeyKJvc)
+- [Madina Arabic Book 1 - by Madina College London](https://youtube.com/playlist?list=PL_nfQvTat_KzRw1LaNUt3B443GHwRnJAy&si=1rVzZD43gjq-Hyzz)
+- [Madinah Arabic Course Book 1 by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6h_OpqrYs8YnYaGyWC2Fa-) , [Previous Madinah Arabic Book 1 Content by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6or8m2J4la7y7OPL_ilw3c)
+- [Arabic Enthusiasts - Arabiyya Bayna Yadayk](https://www.youtube.com/@ArabicEnthusiasts)
 
 
 <span id="qh"></span>

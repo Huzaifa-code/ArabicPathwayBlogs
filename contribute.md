@@ -22,6 +22,11 @@ Arabic Text with # or ## will get underline highlight automatically
 
 ## Lists
 Create unordered lists using `-` or `*`:
+```
+- Item 1
+- Item 2
+  - Subitem
+```
 - Item 1
 - Item 2
   - Subitem
