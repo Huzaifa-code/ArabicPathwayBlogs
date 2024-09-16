@@ -102,6 +102,7 @@ Resources to Learn Arabic to understand the Quran
         - Sarf Families Rhetorical Implications - Dr. Fadhel Al-Samarrai [Ma'ani al-Abniyah (معاني الأبنية)](https://www.youtube.com/playlist?list=PLzn0qdi6JpdslQYIbNDLggG--Bn5nYvDh)
         - [First Steps To Understanding Balagah](https://www.youtube.com/playlist?list=PLzn0qdi6JpduDfGlrbMhAWg2lNzdd7OA1),  
         - [Duroosul Balagah](https://www.youtube.com/playlist?list=PLzn0qdi6JpdvvXVuJ7kIusNquSxeyKJvc)
+- [Zad Academy - English](https://www.youtube.com/@academyzaden)
 - [Madina Arabic Book 1 - by Madina College London](https://youtube.com/playlist?list=PL_nfQvTat_KzRw1LaNUt3B443GHwRnJAy&si=1rVzZD43gjq-Hyzz)
 - [Madinah Arabic Course Book 1 by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6h_OpqrYs8YnYaGyWC2Fa-) , [Previous Madinah Arabic Book 1 Content by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6or8m2J4la7y7OPL_ilw3c)
 - [Arabic Enthusiasts - Arabiyya Bayna Yadayk](https://www.youtube.com/@ArabicEnthusiasts)
