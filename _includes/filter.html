@@ -1,0 +1,31 @@
+<div class="category-filter-buttons">
+    <button class="filter-btn active" data-category="all">All</button>
+    {%- assign categories = site.categories | sort -%}
+    {%- for category in categories -%}
+      <button class="filter-btn" data-category="{{ category[0] }}">{{ category[0] | capitalize }}</button>
+    {%- endfor -%}
+</div>
+
+
+<script>
+    document.querySelectorAll('.filter-btn').forEach(button => {
+      button.addEventListener('click', function() {
+        var selectedCategory = this.getAttribute('data-category');
+        var posts = document.querySelectorAll('.post-item');
+  
+        posts.forEach(function(post) {
+          var postCategories = post.getAttribute('data-category').split(' ');
+  
+          if (selectedCategory === 'all' || postCategories.includes(selectedCategory)) {
+            post.style.display = 'block';
+          } else {
+            post.style.display = 'none';
+          }
+        });
+  
+        // Highlight the selected button
+        document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        this.classList.add('active');
+      });
+    });
+</script>

@@ -2,7 +2,7 @@
 layout: post
 title:  "[ مزيد فيه ] Sarf Families Part 1"
 date:   2024-09-12 11:11:18 +0530
-categories: sarf morphology Mazeed_Fihi
+categories: Basic_Sarf Mazeed_Fihi
 author: Huzaifa Qureshi
 img: https://res.cloudinary.com/ddymelpa3/image/upload/v1726152933/arabic%20blogs/sarf%20part%201/qo0dxkwvgpmbj9vxbvh8.png
 ---

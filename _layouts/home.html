@@ -7,13 +7,15 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  
   {{ content }}
-
+  
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    {%- include filter.html -%} 
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
+      <li class="post-item" data-category="{{ post.categories | join: ' ' }}">
         <a class="post-link" href="{{ post.url | relative_url }}">
 
           <img src={{post.img}} alt="main image">
