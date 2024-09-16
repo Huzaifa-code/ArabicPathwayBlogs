@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<h1 class="ar" style="text-align:center;" > بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم </h1>
+<h1 class="ar-r" style="text-align:center; color: #636e72;" > بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم </h1>
