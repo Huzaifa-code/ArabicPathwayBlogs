@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[ مزيد فيه ] Sarf Families Part 1"
+title:  " مزيد فيه  Sarf Families Part 1"
 date:   2024-09-12 11:11:18 +0530
 categories: Basic_Sarf 
 author: Huzaifa Qureshi
