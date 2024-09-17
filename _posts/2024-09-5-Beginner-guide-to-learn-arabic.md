@@ -4,40 +4,50 @@ title:  "Beginner guide to learn arabic"
 date:   2024-09-10 4:30:18 +0530
 categories: Basic_Nahw Basic_Sarf
 author: Huzaifa Qureshi
-img: https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/sarf%20part%201/gi2vwptyqgtyrxx2tiov
+img: https://i.imgur.com/QGJQGw8.jpeg
 ---
+
+![alt text](https://i.imgur.com/QGJQGw8.jpeg)
 
 ### Guide to Learning Arabic: A Roadmap
 
 Mastering Basic Nahw and Basic Sarf
 
 Nahw (syntax) and Sarf (morphology) are two essential branches of Arabic grammar. Nahw focuses on the structure of sentences, teaching how words relate to each other, and how to form grammatically correct sentences. It helps to understand sentence components like subjects, verbs (Fi'l) , and objects, and how their roles change based on context. 
-Sarf, on the other hand, deals with word formation, showing how verbs (Fi'l) and nouns (Ism) are derived from root letters and how they change to express tense, voice, and number. Together, Nahw and Sarf form the foundation for mastering Arabic grammar and understanding how the language works.
+
+Sarf, on the other hand, deals with word formation, showing how Fi'l(similar to verbs in english but they are not same) and Ism (not exactly nouns in english) are derived from root letters and how they change to express tense, voice, and number. Together, Nahw and Sarf form the foundation for mastering Arabic grammar and understanding how the language works.
 
 ### Step 1 – Types of Words in Arabic
 
-Arabic revolves around three main types of words: Nouns (اسم), Verbs (فعل), and Particles (حرف). 
+Arabic revolves around three main types of words:  
+- اسم - Name of person ,place , thing, idea , adjective, adverb and more
+- فعل - word that is stuck in time
+- حرف - Word that doesnt makes sense unless an Ism or Fi'l is used with it, eg : to,from,with etc
 
 Understanding how these categories work is crucial to building sentences. This stepcovers how words are categorized and introduces basic sentence structures.
 
 Introduction: Understanding the core structure of Arabic sentences.
 
-Status of Words (إعراب): Learn how the role of a word in a sentence affects its grammatical case (e.g., nominative, accusative).
+Status of Words (إعراب): Rafa,Nasab,Jarr - Learn how the role of a word in a sentence affects its grammatical case like if the Ism is doer in the sentence or detail.
 
 Light vs. Heavy Words: Explore the subtle changes in how words appear in Arabic depending on their usage.
 
-Pronouns: Master the different types of pronouns in Arabic, including personal, demonstrative, and relative pronouns.
+Pronouns: Master the different types of pronouns in different status in Arabic (Memorize them).
 
 Status in Action: See how grammatical status applies in different contexts.
 
 ### Step 2 – Properties of Ism اسم Status, Gender, Number, and Type
 Understanding gender, number, and type in Arabic is essential. These factors influence how nouns, adjectives, and verbs agree within a sentence.
 
+Status : Rafa, Nasb, Jarr
+
 Gender: Arabic words are either masculine or feminine, and it’s important to learn how to identify and use them properly.
 
-Number: Arabic has singular, dual, and plural forms, each affecting the way verbs and adjectives are used.
+Number: Arabic has singular, dual, and plural forms.
 
-Types of Words: Explore how different types of words (nouns, adjectives, and verbs) interact in sentences.
+Type: Common & Proper.
+
+Next, Learn About Different Fragments in Arabic - Jarr-Majroor, Nasb-Mansoob, Idhafa (Mudhaf-Mudhaf Ilay), Sifah صفة
 
 ### Step 3 – Descriptive Words (صفة)
 This stepdeals with how adjectives and descriptive phrases are structured in Arabic.
@@ -52,16 +62,16 @@ Arabic sentences often omit the word "is" in sentences. This stepfocuses on how 
 Labeling Grammatical Functions: Learn how to identify the subject and predicate without an explicit "is".
 Complex Sentences: Dive into more complicated sentence structures and how to handle them in Arabic.
 
-### Step 5 – Verbs in Arabic (الفعل)
+### Step 5 – الفعل
 Verbs are at the heart of Arabic. Understanding how they change based on tense and subject is vital for fluency.
 
-Past and Present Tense: Learn the difference between past (الماضي) and present (المضارع) verbs and how to conjugate them based on the subject.
+Past and Present Tense: Learn the difference between past (الماضي) and present (المضارع) Fi'l and how to conjugate them based on the subject.
 
-Verbal Sentence Structures: Study how verbs create actions within sentences and how to identify the subject and object.
+Types of Sentence in Arabic - Jumla Ismiyyah and jumla Fi'liyyah
 
 Abnormal Sentence Structures: Explore irregular sentence constructions that don't follow typical patterns.
 
-### Step 6 – Commands and Negation
+### Step 6 – Commands and Negation - فعل
 Arabic commands, known as imperative verbs, are formed in unique ways. Additionally, negation plays an important role in expressing the absence of action.
 
 Commanding and Forbidding: Learn how to issue commands or forbid actions.
@@ -82,10 +92,17 @@ Creating Compound Sentences: Study the tools and connectors that allow for the c
 
 Sentence Structure: Learn how to properly structure these sentences in different contexts.
 
-### Step 9 – Plural Patterns
-Arabic plurals are complex and varied, with different patterns for broken plurals and regular plurals. This stepexplores the most common plural patterns.
+### Step 9 – Sarf Families
+Memorize all the sarf Families Family 2 - 10
 
-Plural Patterns: Learn how to identify and use different plural forms for nouns and adjectives.
+First Study and Learn Families 2 - 10.
+then go for Family 1 which has subfamilies called clans.
+
+### Step 10 - Irregularities in Sarf
+
+- مهموز : when one of root letter is Hamza
+- مثال : When first root letter is a vowel ( و or ي )
+- مضاعف : when second and third root letters are same
 
 
 Go Through the Bayyinah Dream Intensives Playlists 1,2,3,4
