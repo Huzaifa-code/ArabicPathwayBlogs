@@ -21,7 +21,13 @@ layout: default
           <img src={{post.img}} alt="main image">
 
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <span class="post-meta">{{ post.date | date: date_format }}
+            {%- if post.author -%}
+             • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="post-meta" itemprop="name">{{ post.author }}</span></span>
+            {%- endif -%}
+          </span>
+          
+
           <h3 class="ar-r" >
               {{ post.title | escape }}
           </h3>

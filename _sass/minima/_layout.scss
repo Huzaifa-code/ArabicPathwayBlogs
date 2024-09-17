@@ -64,6 +64,8 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+    z-index: 100;
+
 
     label[for="nav-trigger"] {
       display: block;
@@ -94,8 +96,16 @@
     }
 
     input:checked ~ .trigger {
-      display: block;
+      display: flex;
+      flex-direction: column;
       padding-bottom: 5px;
+      width: 87vw;
+      height: 80vh;
+      justify-content: center;
+      align-items: center;
+      gap: 3rem;
+      font-size: 2rem;    
+      background-color: white;  
     }
 
     .page-link {

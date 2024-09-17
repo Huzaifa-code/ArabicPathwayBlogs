@@ -9,9 +9,20 @@ img: https://i.imgur.com/QGJQGw8.jpeg
 
 ![alt text](https://i.imgur.com/QGJQGw8.jpeg)
 
-### Guide to Learning Arabic: A Roadmap
 
-Mastering Basic Nahw and Basic Sarf
+### There are 3 Kinds of ARABIC:
+1 . Street Arabic
+Different Arabic is spoken in different places (countries). Pronunciation of words differs in different places
+
+2 . Fus-Ha Arabic
+New Proper Arabic (official), like in newspaper
+
+3 . Ancient Arabic Language
+Old Proper Arabic 1400 years ago, used in Al-Qur’an. Way richer than Fus-Ha, 
+
+Arabic got shrinker as time went by. ( As are other languages - English of today is different than English 100 years ago )
+
+### Mastering Basic Nahw and Basic Sarf
 
 Nahw (syntax) and Sarf (morphology) are two essential branches of Arabic grammar. Nahw focuses on the structure of sentences, teaching how words relate to each other, and how to form grammatically correct sentences. It helps to understand sentence components like subjects, verbs (Fi'l) , and objects, and how their roles change based on context. 
 
@@ -106,6 +117,8 @@ then go for Family 1 which has subfamilies called clans.
 
 
 Go Through the Bayyinah Dream Intensives Playlists 1,2,3,4
+
+Intensive notes by Sangeen Khan :  [Link](https://drive.google.com/drive/folders/1MjYpGccwl2p636SHzO48g0d9bw0uUae7)
 
 [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q)
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CV1MTgPX4LncaM0P&amp;list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
