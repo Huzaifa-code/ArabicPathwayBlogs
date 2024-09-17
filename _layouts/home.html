@@ -7,8 +7,11 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <!-- This h1 is for SEO -->
+  <h1 style="color: transparent; font-size: 1px; margin: 0!important; padding: 0!important;">Let's Learn Quranic Arabic Together one blog at a time</h1>
   
   {{ content }}
+
   
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>

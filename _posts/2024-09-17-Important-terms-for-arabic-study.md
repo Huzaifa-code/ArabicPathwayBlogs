@@ -7,7 +7,7 @@ author: Huzaifa Qureshi
 img: https://i.imgur.com/gPywZSf.jpeg
 ---
 
-![alt text](https://i.imgur.com/gPywZSf.jpeg "main")
+![alt text](https://i.imgur.com/gPywZSf.jpeg)
 
 ### Important Terminologies
 
