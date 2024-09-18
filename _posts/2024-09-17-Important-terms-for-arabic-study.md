@@ -9,6 +9,10 @@ img: https://i.imgur.com/gPywZSf.jpeg
 
 ![alt text](https://i.imgur.com/gPywZSf.jpeg)
 
+<p class="note">
+Use Find Option from Menu or Press "Ctrl+F" to open search bar, and now you can search for meaning of specific arabic terminology
+</p>
+
 
 
 ## Table of Content
@@ -25,6 +29,8 @@ instead of getting overwhelmed by the arabic terms focus on understanding gramma
 start using arabic terms without much efforts Inshallah.
 
 These terms are specially useful when reading I'raab books in Arabic,Urdu and using the Dictionary, for tafsir.app under علوم reading I'raab books for understanding Quran Ayah
+
+
 
 
 <span id="nahw"></span>
@@ -182,3 +188,6 @@ Most Arabic words are مُشْتَقّ
 مثال : When first root letter is a vowel ( و or ي )
 
 مضاعف : when second and third root letters are same
+
+
+I'll Add more terms soon Inshallah   

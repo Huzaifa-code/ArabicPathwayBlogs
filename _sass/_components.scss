@@ -47,3 +47,29 @@
     }
   }
 }
+
+
+// Scroll to Top button in POST BLOG
+.scroll-to-top {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  background-color: #000000;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+  font-size: 7px;
+  text-align: center;
+  text-decoration: none;
+  z-index: 1000;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.scroll-to-top:hover {
+  background-color: #9c9c9c; /* Change color on hover */
+}
+
+/* Use this class to show the button on scrolling */
+html {
+  scroll-behavior: smooth; /* Smooth scroll to top */
+}

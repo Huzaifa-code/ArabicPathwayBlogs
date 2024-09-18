@@ -92,6 +92,7 @@
   display: inline-block; // Ensure the highlight wraps only around the text
   height: 1.2em; // Fixed height
   position: relative; // Required to position the ::after pseudo-element
+  padding: 5px 11px;
 
   &::after {
     content: "";
