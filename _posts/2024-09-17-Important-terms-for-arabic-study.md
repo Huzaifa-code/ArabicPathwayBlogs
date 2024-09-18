@@ -115,12 +115,9 @@ In Abnormal Sentence Structure Jumla Ismiyyah (For Rhetorical Purpose) :
 - To indicate number of times an action happened ( when it has a number ) 
 it appear as مصدر that shares same root letter as فعل
 
-eg of المفعول المطلق  :
+eg of المفعول المطلق  : see here تَكْلِيمًۭا
 
-<span class="hl" rtl>
- تَكْلِيمًۭا ١٦٤
-</span>
-وَرُسُلًۭا قَدْ قَصَصْنَـٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًۭا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ
+   وَرُسُلًۭا قَدْ قَصَصْنَـٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًۭا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًۭا
 
 الحال : tells "How" the action took place. It describes the state of doer or the action. eg : Then he left it <span class="hl">fearfully.</span>
 
