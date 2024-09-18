@@ -85,6 +85,10 @@ html {
   // width: 100%;
   // position: relative;
 
+  @media screen and (max-width: 600px) {
+    max-width: 76vw;
+  }
+
   #search-input {
     width: 100%;
     padding: 1rem 1.5rem;
