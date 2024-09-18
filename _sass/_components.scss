@@ -49,7 +49,7 @@
 }
 
 
-// Scroll to Top button in POST BLOG
+//? ------------------- Scroll to Top button in POST BLOG -----------------------------
 .scroll-to-top {
   position: fixed;
   bottom: 50px;
@@ -73,3 +73,69 @@
 html {
   scroll-behavior: smooth; /* Smooth scroll to top */
 }
+//? -------x----------- Scroll to Top button in POST BLOG --------------x--------------
+
+
+
+// -------------------- Search In Home ----------------------------------------
+.search-container {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  max-width: 700px;
+  // width: 100%;
+  // position: relative;
+
+  #search-input {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 50px;
+    border: 2px solid #e0e0e0;
+    background-color: #f8f8f8;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+    &:focus {
+      outline: none;
+      border-color: #3498db;
+      box-shadow: 0 6px 8px rgba(52, 152, 219, 0.2);
+    }
+
+    &::placeholder {
+      color: #999;
+    }
+  }
+
+  #results-container {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+
+    li {
+      padding: 1rem;
+      border-bottom: 1px solid #f0f0f0;
+      transition: background-color 0.2s ease;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      &:hover {
+        background-color: #f8f8f8;
+      }
+
+      h3 {
+        margin: 0;
+        font-size: 1.1rem;
+        color: #333;
+      }
+    }
+  }
+}
+
+
+// --------x----------- Search In Home -------------------x--------------------
