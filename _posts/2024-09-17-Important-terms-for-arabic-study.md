@@ -17,8 +17,14 @@ img: https://i.imgur.com/gPywZSf.jpeg
     - <a href="#jf"> Jumla Fi'liyyah  </a>
 - <a href="#sarf">Sarf</a>
     - <a href="#sf">Sarf Family Members</a>
-    - <a href="#"></a>
+    - <a href="#irr">Irregularities in Sarf</a>
 
+
+If you are Beginner than you don't need to memorize every arabic terms, Initially just use use the english terms to refer to them like fragments,Pronouns,attached Pronouns
+instead of getting overwhelmed by the arabic terms focus on understanding grammar(nahw and sarf) concepts and as you progress into learning more advance concepts you can will eventually 
+start using arabic terms without much efforts Inshallah.
+
+These terms are specially useful when reading I'raab books in Arabic,Urdu and using the Dictionary, for tafsir.app under علوم reading I'raab books for understanding Quran Ayah
 
 
 <span id="nahw"></span>
@@ -168,4 +174,11 @@ Most Arabic words are مُشْتَقّ
 اسمُ ظَرْفٍ : Time/Place in which the action takes place, eg  مُعَلَّمٌ (a time/place of teaching)
 
 
+<span id="irr"></span>
+### Irregularities in Sarf :
 
+مهموز : when one of root letter is Hamza
+
+مثال : When first root letter is a vowel ( و or ي )
+
+مضاعف : when second and third root letters are same
