@@ -12,6 +12,10 @@ layout: default
   
   {{ content }}
 
+  <div class="search-container">
+    <input type="text" id="search-input" placeholder="Search for posts..." />
+    <ul id="results-container"></ul>
+  </div>
   
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
@@ -21,7 +25,9 @@ layout: default
       <li class="post-item" data-category="{{ post.categories | join: ' ' }}">
         <a class="post-link" href="{{ post.url | relative_url }}">
 
-          <img src={{post.img}} alt="main image">
+          {%- if post.img -%}
+          <img src={{post.img}} >
+          {%- endif -%}
 
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}
