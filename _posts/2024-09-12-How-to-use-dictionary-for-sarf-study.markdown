@@ -28,9 +28,13 @@ img: https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%2
 
 **More Resources for Hans Wehr** 
 
-Blog on How to read Hans wehr :  [https://thearabicpages.com/2019/11/19/how-to-use-and-love-the-hans-wehr-dictionary/](https://thearabicpages.com/2019/11/19/how-to-use-and-love-the-hans-wehr-dictionary/)
+Blog on How to read Hans wehr :  
 
-Blog on Abbrevations in Hans Wehr :  [https://thearabicpages.com/2020/12/06/reference-a-list-of-abbreviations-in-the-hans-wehr-dictionary/ ](https://thearabicpages.com/2020/12/06/reference-a-list-of-abbreviations-in-the-hans-wehr-dictionary/ )
+[thearabicpages.com](https://thearabicpages.com/2019/11/19/how-to-use-and-love-the-hans-wehr-dictionary/)
+
+Blog on Abbrevations in Hans Wehr :  
+
+[thearabicpages.com](https://thearabicpages.com/2020/12/06/reference-a-list-of-abbreviations-in-the-hans-wehr-dictionary/ )
 
 
 <iframe class='video' width="560" height="315" src="https://www.youtube.com/embed/c3en9peTFQE?si=X4Yw4SJi5pFoYwlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
