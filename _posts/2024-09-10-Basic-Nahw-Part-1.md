@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nahw Intro"
+title:  "Basic Nahw Part 1"
 date:   2024-09-10 4:30:18 +0530
 categories: Basic_Nahw
 author: Huzaifa Qureshi
