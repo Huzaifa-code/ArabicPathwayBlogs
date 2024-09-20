@@ -87,5 +87,37 @@ follow a two-step process:
 
 The term for "in the نَصْب status" in arabic is مَنْصُوبٌ
 
+Status 3 : جَر status
+
+One of the reason a word in Jarr is because it comes after <span>"of"</span>.
+There are more reasons for an Ism to be Jarr we will discuss about it in the later blogs
+
+Example :   The Book of Shoaib.
+
+Here Shoaib i after "of" , so it is "in Jarr status" / مَجْرُور
+
+Sometimes "of" is not clear and sentence may need to be rearranged.
+
+Example : My Book = Book of mine . so here mine is after "of" so "mine" is in jarr status
+
+
+
+
+
+### How to tell status of an Ism
+
+In English we can tell status by its meaning. But in Arabic status is determined by a marker or sign at the end of the word - Harakaat حركات
+
+There are 2 types of endings of an Ism - Ending Sound and Ending combination (letters added at the end of Ism)
+
+Memorize this Chart : Muslim Chart
+
+Masculine
+
+![alt text](https://i.imgur.com/5GsJ53D.png)
+
+Feminine Chart
+
+![alt text](https://i.imgur.com/3RQt3d9.png)
 
 More Content Coming Soon Inshallah...
