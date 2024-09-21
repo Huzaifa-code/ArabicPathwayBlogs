@@ -41,6 +41,14 @@ layout: default
               {{ post.title | escape }}
           </h3>
 
+          {%- if post.description -%}
+            {% assign truncated_description = post.description | truncate: 60 %}
+              <p class="post-desc">
+                {{ truncated_description }}
+              </p>
+          {%- endif -%}
+
+
           {%- if post.categories -%}
             <div class="post-category">
               {%- for category in post.categories -%}
