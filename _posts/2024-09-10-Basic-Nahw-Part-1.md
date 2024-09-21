@@ -5,6 +5,7 @@ date:   2024-09-10 4:30:18 +0530
 categories: Basic_Nahw
 author: Huzaifa Qureshi
 img: https://i.imgur.com/FoFyGiz.jpeg
+description: " Basic Nahw - Types of words in arabic - اسم فعل حرف .Ism and its propertiess"
 ---
 
 ![alt text](https://i.imgur.com/FoFyGiz.jpeg)
@@ -116,8 +117,21 @@ Masculine
 
 ![alt text](https://i.imgur.com/5GsJ53D.png)
 
+Memorize as Mulimun, musliman, muslimin, then muslimaani, muslimayni,muslimayni then Muslimuna , Muslimeena, Muslimeena
+
+Ending Sound : un ( Dhammatain ) , an ( Fat'hatain ) , in ( Kasratain )
+
+Ending Combination : 
+
+In Pair (Dual) = aani, ayni, ayni
+
+In Plural ( 3 or more than 3 ) = una , eena, eena 
+
+
 Feminine Chart
 
 ![alt text](https://i.imgur.com/3RQt3d9.png)
+
+To make a singular word feminine just add ة at the end of the word.
 
 More Content Coming Soon Inshallah...
