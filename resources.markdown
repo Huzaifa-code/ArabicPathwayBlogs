@@ -13,8 +13,10 @@ permalink: /resources/
 ## Table of Content
 - <a href="#nt">Notes</a> 
 - <a href="#bk">Books</a> 
+- <a href="#bayyinah">Bayyinah</a> 
 - <a href="#wb">Webistes & Blogs</a> 
 - <a href="#yt">YouTube Arabic Resources</a> 
+- <a href="qt">Quran Tafsirs</a>
 - <a href="#qh">Quran Hive - quranhive.com</a> 
 - <a href="#ara">Aratools - aratools.com</a> 
 - <a href="#cq">corpus quran</a> 
@@ -23,6 +25,7 @@ permalink: /resources/
 - <a href="#al">almaany - https://www.almaany.com/ar/dict/ar-ar/</a> 
 
 Resources to Learn Arabic to understand the Quran
+
 
 <span id="nt"></span>
 ## Notes :
@@ -68,6 +71,9 @@ Resources to Learn Arabic to understand the Quran
 - Arabic Reading Book Series - Qiraat ar Rashida
     [Link](https://drive.google.com/drive/folders/1bFhHnelgb981R64YKHS3yspdzCkvZih9)
 
+<span id="bayyinah"></span>
+## Bayyinah :
+- Divine Speech (Free Content) : [Link](https://bayyinahtv.com/library/series/16) 
 
 <span id="wb"></span>
 ## Blogs & other Webistes
@@ -106,6 +112,11 @@ Resources to Learn Arabic to understand the Quran
 - [Madina Arabic Book 1 - by Madina College London](https://youtube.com/playlist?list=PL_nfQvTat_KzRw1LaNUt3B443GHwRnJAy&si=1rVzZD43gjq-Hyzz)
 - [Madinah Arabic Course Book 1 by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6h_OpqrYs8YnYaGyWC2Fa-) , [Previous Madinah Arabic Book 1 Content by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6or8m2J4la7y7OPL_ilw3c)
 - [Arabic Enthusiasts - Arabiyya Bayna Yadayk](https://www.youtube.com/@ArabicEnthusiasts)
+
+<span id="qt"></span>
+## Quran Tafsir :
+- Bayan ul Quran by Dr. Israr Ahmed (urdu) : [YT Playlist](https://youtube.com/playlist?list=PLN5NkUdaF03i2YxYkzZxO3HjALil8_0Pi&si=QMrI4MLN_ndtEj9I)
+- Surah Yusuf - Bayyinah - Ustadh Nouman Ali Khan : [YT Playlist](https://youtube.com/playlist?list=PLutdSTmJ7bAKlyRliJdlAJZRF6RSIE49y&si=wUkyrVkyuZVeRNnO)
 
 
 <span id="qh"></span>
