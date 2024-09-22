@@ -7,4 +7,6 @@ layout: home
 
 ![alt text](https://i.imgur.com/pp98vlm.png "main")
 
+I’m a Dream Bayyinah student, sharing my journey in learning Arabic. I created this space to document my progress and, Inshallah, help others along the way. You’re welcome to contribute (see contribute page) your own Arabic knowledge by creating a post! 
+
 <h2 class="ar-r" style="text-align:center; color: #636e72;" > بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم </h2>

@@ -200,49 +200,7 @@
   }
 }
 
-.note {
-  background-color: #fffde7;
-  border-left: 4px solid #ffd54f;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  padding: 16px 20px;
-  font-size: 16px;
-  font-weight: 600;
-  color: #333333;
-  line-height: 1.6;
-  margin: 20px 0;
-  position: relative;
-  overflow: hidden;
-  transition: all 0.3s ease;
 
-  .ar {
-    font-size: x-large;
-  }
-
-}
-
-.note::before {
-  content: '📝';
-  position: absolute;
-  top: -5px;
-  right: 10px;
-  font-size: 24px;
-  opacity: 0.3;
-  transform: rotate(15deg);
-}
-
-.note:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-}
-
-// @media (prefers-color-scheme: dark) { // os system setting - dark mode
-//   .note {
-//     background-color: #2d2d2d;
-//     border-left-color: #ffd54f;
-//     color: #e0e0e0;
-//   }
-// }
 
 
 
