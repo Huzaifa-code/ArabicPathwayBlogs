@@ -5,7 +5,7 @@ date:   2024-09-10 4:30:18 +0530
 categories: Basic_Nahw
 author: Huzaifa Qureshi
 img: https://i.imgur.com/FoFyGiz.jpeg
-description: " Basic Nahw - Types of words in arabic - اسم فعل حرف .Ism and its propertiess"
+description: "Types of words in arabic - اسم فعل حرف .Ism and its propertiess"
 ---
 
 ![alt text](https://i.imgur.com/FoFyGiz.jpeg)
