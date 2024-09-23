@@ -5,6 +5,7 @@ date:   2024-09-15 7:11:18 +0530
 categories: Basic_Nahw Basic_Sarf
 author: Huzaifa Qureshi
 img: https://i.imgur.com/gPywZSf.jpeg
+description: " "
 ---
 
 ![alt text](https://i.imgur.com/gPywZSf.jpeg)
