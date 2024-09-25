@@ -121,6 +121,9 @@ Go Through the Bayyinah Dream Intensives Playlists 1,2,3,4
 
 Intensive notes by Sangeen Khan :  [Link](https://drive.google.com/drive/folders/1MjYpGccwl2p636SHzO48g0d9bw0uUae7)
 
+Follow Dream Program Modules Table of Content :  [Link](https://docs.google.com/document/d/1YWfywFA5u-kdtsvDeaGg79_ZEcAd3x8Q-sPz8ynhVys/edit)
+
+
 [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q)
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CV1MTgPX4LncaM0P&amp;list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

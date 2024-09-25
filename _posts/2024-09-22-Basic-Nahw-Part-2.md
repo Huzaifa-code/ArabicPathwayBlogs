@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Basic Nahw Part 2"
+title:  "Status - Basic Nahw Part 2"
 date:   2024-09-21 4:30:18 +0530
 categories: Basic_Nahw
 author: Huzaifa Qureshi
