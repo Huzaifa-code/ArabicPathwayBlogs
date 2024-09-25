@@ -28,7 +28,9 @@ Resources to Learn Arabic to understand the Quran
 
 
 <span id="nt"></span>
+
 ## Notes :
+![alt text](https://i.imgur.com/fQZMvW8.jpeg)
 - Intensive notes Sangeen Khan :  [Link](https://drive.google.com/drive/folders/1MjYpGccwl2p636SHzO48g0d9bw0uUae7)
 - Intensive notes : [Link](https://drive.google.com/file/d/10g27RE2km20379pwAf27JVBUDVpFV0Po/view)
 - Sister Noradila johar Notes : [Drive Link](https://drive.google.com/drive/folders/1ppm1V7nuz-bq14i4GxgAzo_6pOsNN25t) 
@@ -53,7 +55,9 @@ Resources to Learn Arabic to understand the Quran
 
 
 <span id="bk"></span>
+
 ## Books :
+![alt text](https://i.imgur.com/NXlTJ5t.jpeg)
 - Dream Intensives Hand out : [Link](https://drive.google.com/file/d/1nMupyMSk3EnyI4sZg_yOCNo8HVDEp2il/view?usp=drivesdk)
 - Dream Intensives and Dream Big study materials : [Link](https://drive.google.com/drive/folders/11GJxnEm4N5ezv5sk_mi4QCvw1sNcJSDv)
 - Bayyinah Dream text books in Urdu : [Link](https://drive.google.com/drive/folders/1INrTyoIT4AB9rB-SRwJ6GyYepOAfN-SM)
@@ -72,11 +76,15 @@ Resources to Learn Arabic to understand the Quran
     [Link](https://drive.google.com/drive/folders/1bFhHnelgb981R64YKHS3yspdzCkvZih9)
 
 <span id="bayyinah"></span>
+
 ## Bayyinah :
+![alt text](https://i.imgur.com/eKpn7zx.jpeg)
 - Divine Speech (Free Content) : [Link](https://bayyinahtv.com/library/series/16) 
 
 <span id="wb"></span>
+
 ## Blogs & other Webistes
+![alt text](https://i.imgur.com/drC91fV.jpeg)
 - [https://motivatedsisters.com/](https://motivatedsisters.com/)
 - Two good websites for practicing Arabic reading. Tap on words to check harakat : [https://arabic.ba](https://arabic.ba) , [https://arabicreadings.com/](https://arabicreadings.com/)
 - [https://thearabicpages.com/](https://thearabicpages.com/)
@@ -84,7 +92,9 @@ Resources to Learn Arabic to understand the Quran
 - Quran,Arabic Resources [kalamullah.com](https://www.kalamullah.com/learning-arabic.html)
 
 <span id="yt"></span>
+
 ## YouTube Arabic Resources 
+![alt text](https://i.imgur.com/c7bvCMs.jpeg)
 - Bayyinah Dream [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q), [Intensive 2](https://youtube.com/playlist?list=PLutdSTmJ7bAJ9IT9MY03oX0HDOLAXKRRp&si=27a2Iwz_pLrRPig-), [Intensive 3](https://youtube.com/playlist?list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI&si=2ITve28E6kmWzr6_), [Intensive 4](https://youtube.com/playlist?list=PLutdSTmJ7bALtCYBhJwP6E1ydBalwhHS1&si=q3mJMPCFTwBvpfyH), [Study Session](https://youtube.com/playlist?list=PLutdSTmJ7bALQVpun2dB6gY7ekBOymqSC&si=xf0uwbZYM-itBILT)
 - [Lisan ul Quran Amir Sohail](https://www.youtube.com/@lisanulquran)
 - [The Arabic Guide](https://www.youtube.com/@TheArabicGuide)
@@ -115,7 +125,9 @@ Resources to Learn Arabic to understand the Quran
 - [Arabic Enthusiasts - Arabiyya Bayna Yadayk](https://www.youtube.com/@ArabicEnthusiasts)
 
 <span id="qt"></span>
+
 ## Quran Tafsir :
+![alt text](https://i.imgur.com/luFCvqz.jpeg)
 - Bayan ul Quran by Dr. Israr Ahmed (urdu) : [YT Playlist](https://youtube.com/playlist?list=PLN5NkUdaF03i2YxYkzZxO3HjALil8_0Pi&si=QMrI4MLN_ndtEj9I)
 - Surah Yusuf - Bayyinah - Ustadh Nouman Ali Khan : [YT Playlist](https://youtube.com/playlist?list=PLutdSTmJ7bAKlyRliJdlAJZRF6RSIE49y&si=wUkyrVkyuZVeRNnO)
 
