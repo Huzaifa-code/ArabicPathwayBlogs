@@ -81,6 +81,7 @@ Resources to Learn Arabic to understand the Quran
 - Two good websites for practicing Arabic reading. Tap on words to check harakat : [https://arabic.ba](https://arabic.ba) , [https://arabicreadings.com/](https://arabicreadings.com/)
 - [https://thearabicpages.com/](https://thearabicpages.com/)
 - [https://arabicblog.info/](https://arabicblog.info/)
+- Quran,Arabic Resources [kalamullah.com](https://www.kalamullah.com/learning-arabic.html)
 
 <span id="yt"></span>
 ## YouTube Arabic Resources 
