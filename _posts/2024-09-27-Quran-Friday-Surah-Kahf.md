@@ -73,3 +73,7 @@ Family 1 - Mujarrad
 لَهُ is متعلقان بيجعل
 
 عِوَجاً is مفعول به
+
+## Translation :
+
+Praise be to God, who sent down the Scripture to His servant and made it unerringly straight,
