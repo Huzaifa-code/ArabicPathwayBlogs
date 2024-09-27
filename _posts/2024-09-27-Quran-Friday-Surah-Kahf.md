@@ -8,6 +8,7 @@ description: "Nahw and Sarf of Surah Kahf Ayah 1 18:1 . Quran Friday"
 img: https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/Quran%20Friday/bn7c1bivdjqvekmrqkob
 ---
 
+![alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/Quran%20Friday/bn7c1bivdjqvekmrqkob)
 
 Assalamulaikum,
 
