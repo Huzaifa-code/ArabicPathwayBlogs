@@ -4,6 +4,18 @@ title: Contribute
 permalink: /contribute/
 ---
 
+
+## Contribute code 
+
+Are you a web developer and want to contribute to the code by fixing any bug/error or work on adding new feature or improve the UI. 
+
+You are more than welcode to contribute Inshallah. Code is Open Source and available on github just go over and create a PR for your contribution. 
+
+Also if want any feature to be implemented in future releases just add it in the issue section of repo 
+
+Github Repo : [github](https://github.com/Huzaifa-code/ArabicPathwayBlogs)
+
+
 ## How to Contribute Content
 
 Thank you for your interest in contributing! Follow these simple steps to create blog content using Markdown. Below are some key Markdown elements and how to use custom classes for styling.
@@ -76,7 +88,7 @@ To create a horizontal rule, use three dashes (---):
 ---
 ```
 
-## Custom Classes for Quran Ayah, Highlighting and Notes
+## Custom Classes for Highlighting and Notes
 Highlight Text: To highlight specific text, use the .hl class within a span tag like this:
 
 ```
@@ -97,18 +109,20 @@ Note Styling: To add a note, wrap the text in a span or p tag with the .note cla
 <p class="note">This paragraph is styled as a note.</p>
 
 
-Make sure to wrap the Ayah in a `<span> or <p>` tag with the `.q` class to apply custom styling.
-```
-<p class="q">
-54:17
-وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ ١٧
+## For Proper Urdu font 
 
+Add class="ur" in the <p></p> tag -
+
+For Example :
+
+```
+<p class="ur" dir="rtl">
+تعریف اللہ کے لیے ہے جس نے اپنے بندے پر یہ کتاب نازل کی اور اس میں کوئی ٹیڑھ نہ رکھی
 </p>
 ```
-<p class="q">
-54:17
-وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ ١٧
-
+Output :
+<p class="ur" dir="rtl">
+تعریف اللہ کے لیے ہے جس نے اپنے بندے پر یہ کتاب نازل کی اور اس میں کوئی ٹیڑھ نہ رکھی
 </p>
 
 

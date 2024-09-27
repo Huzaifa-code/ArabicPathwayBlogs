@@ -44,6 +44,11 @@ Family 4 - ... اسْلَمَ يُسْلِمُ اسْلامً
 
 From here starts the Jumla Fi'liyyah. And this Jumla Fi'liyyah is the Silatul Mowsool - صلة الموصول (الّذي)
 
+Hans Wehr - root ن ز ل
+
+![alt text](https://i.imgur.com/pJPGH8R.png)
+
+
 ### عَلى عَبْدِهِ
 
 عَلى is Harf jarr , therefore عَبْدِ is Majroor 
@@ -68,6 +73,10 @@ It is Mansoob and مفعول به
 
 Family 1 - Mujarrad
 
+Hans Wehr :
+
+![alt text](https://i.imgur.com/XV2Thu6.png)
+
 ### لَّهُۥ عِوَجَاۜ
 
 لَهُ is متعلقان بيجعل
@@ -76,4 +85,9 @@ Family 1 - Mujarrad
 
 ## Translation :
 
-All Praise and thanks belongs to Allah, who sent down the Scripture to His servant and made it unerringly straight,
+All Praise and thanks belongs to Allah, who sent down the Scripture to His servant, allowing no crookedness in it,,
+
+<p class="ur" dir="rtl">
+تعریف اللہ کے لیے ہے جس نے اپنے بندے پر یہ کتاب نازل کی اور اس میں کوئی ٹیڑھ نہ رکھی
+</p>
+Syed Abu Ali Maududi
