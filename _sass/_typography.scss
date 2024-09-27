@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap');
 
 body{
   font-size: 21px !important;
@@ -56,6 +57,13 @@ ul > li {
   font-style: normal;
 }
 
+.ur {
+  font-family: "Noto Nastaliq Urdu", serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 3;
+  font-style: normal;
+}
 
 
 // Optional: Add any other custom styles here
