@@ -76,4 +76,4 @@ Family 1 - Mujarrad
 
 ## Translation :
 
-Praise be to God, who sent down the Scripture to His servant and made it unerringly straight,
+All Praise and thanks belongs to Allah, who sent down the Scripture to His servant and made it unerringly straight,
