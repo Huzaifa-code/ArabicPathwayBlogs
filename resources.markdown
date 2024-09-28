@@ -47,7 +47,6 @@ Resources to Learn Arabic to understand the Quran
 - Dream Vocabulary Textbook :  [Link](https://drive.google.com/file/d/1huZNyZpBnUYqpt05XQ4HMeQPT5kqpeo5/view)
 - Tafsir notes from Bayyinah : [Link](https://archive.org/download/Linguisticmiracle.comTafsirNotes-Bayyinah.tvnoumanAliKhan)
 - Verbs in Quran ordered by Frequency - Brother Mukhtar Ahmed : [Link](https://drive.google.com/file/d/1ZWLiii_VvCUgkv7U-MXrJ2ceN0nA8HWb/view)
-- Syntax and Translation of Holy Quran by Abu Farees Ad-Dahda : [Link](https://drive.google.com/file/d/1g4V7f--9BQr0uJT6S4IkRg4T3jTH2tL5/view)
 - Basic Grammar for kids [Link](https://drive.google.com/drive/folders/1xx6Wrd6A8lpCWqwAli3O7vP7KHX3u3t0) , [YouTube Playlist](https://youtube.com/playlist?list=PLOWDCV-Ns5gIj4UothhPp9IRYrrSXV4_h&si=kdwV-XYG5XHIzjbx)
 - Advanced Nahw chapters notes : [Link](https://drive.google.com/drive/folders/1VoNm06kwmIL3vBqIi9gey2MmNHWz4MYg)
 - Advanced Sarf Chapterwize notes : [Link](https://drive.google.com/drive/folders/19GNiNTjU4mIiLoLQfqsHN0XfbWvDuKwu)
@@ -74,6 +73,12 @@ Resources to Learn Arabic to understand the Quran
     [Link](https://drive.google.com/file/d/1pGkofBG6rZzGpUFISji6d7Zq99t8fbu0/view?usp=drivesdk)
 - Arabic Reading Book Series - Qiraat ar Rashida
     [Link](https://drive.google.com/drive/folders/1bFhHnelgb981R64YKHS3yspdzCkvZih9)
+- Syntax and Translation of Holy Quran by Abu Farees Ad-Dahda : [Link](https://drive.google.com/file/d/1g4V7f--9BQr0uJT6S4IkRg4T3jTH2tL5/view)
+- Grammatical breakdown of Surahs by Sheikh Muhammad Sayyid Tantawy Al Azhar [Link](https://drive.google.com/file/d/1gmSVZLgAQKa6-zytbnjblKOguMC0XqfU/view?usp=drivesdk)
+- I'raab Al Quran Al Kareem by Doctor Mohammad Sulayman Yaqoot [Link](https://drive.google.com/file/d/1nvuNsHVnPmb6uPFKLrySINNWPG6yxrjU/view?usp=drivesdk)
+
+
+
 
 <span id="bayyinah"></span>
 
@@ -96,7 +101,8 @@ Resources to Learn Arabic to understand the Quran
 ## YouTube Arabic Resources 
 ![alt text](https://i.imgur.com/c7bvCMs.jpeg)
 - Bayyinah Dream [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q), [Intensive 2](https://youtube.com/playlist?list=PLutdSTmJ7bAJ9IT9MY03oX0HDOLAXKRRp&si=27a2Iwz_pLrRPig-), [Intensive 3](https://youtube.com/playlist?list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI&si=2ITve28E6kmWzr6_), [Intensive 4](https://youtube.com/playlist?list=PLutdSTmJ7bALtCYBhJwP6E1ydBalwhHS1&si=q3mJMPCFTwBvpfyH), [Study Session](https://youtube.com/playlist?list=PLutdSTmJ7bALQVpun2dB6gY7ekBOymqSC&si=xf0uwbZYM-itBILT)
-- [Lisan ul Quran Amir Sohail](https://www.youtube.com/@lisanulquran)
+- Channel [Lisan ul Quran Amir Sohail](https://www.youtube.com/@lisanulquran)
+- Lisan ul Quran - Amir Sohail course in English [Link](https://youtube.com/playlist?list=PLmcMQH9TZ96AXE30h38NA5-V4XtBcHXTF&si=HwIuHsTe58z39rsV)
 - [The Arabic Guide](https://www.youtube.com/@TheArabicGuide)
 - [Nur Arabic Class](https://www.youtube.com/@nurarabicclass)
 - [Arabic with Zartash](https://www.youtube.com/@arabicwithzartash)
