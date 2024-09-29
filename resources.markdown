@@ -129,6 +129,7 @@ Resources to Learn Arabic to understand the Quran
 - [Madina Arabic Book 1 - by Madina College London](https://youtube.com/playlist?list=PL_nfQvTat_KzRw1LaNUt3B443GHwRnJAy&si=1rVzZD43gjq-Hyzz)
 - [Madinah Arabic Course Book 1 by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6h_OpqrYs8YnYaGyWC2Fa-) , [Previous Madinah Arabic Book 1 Content by Jibreel Muhsin](https://www.youtube.com/playlist?list=PLGsRR5mM53k6or8m2J4la7y7OPL_ilw3c)
 - [Arabic Enthusiasts - Arabiyya Bayna Yadayk](https://www.youtube.com/@ArabicEnthusiasts)
+- Arabic Text Reading Practice by Roots of knowledge [channel](https://www.youtube.com/@RootsOfKnowledge)  - [playlist 1](https://youtube.com/playlist?list=PL7C66A7F9199857E4&si=jJ0mZVtSK9PNLN6G) , [playlist 2](https://youtube.com/playlist?list=PLSCByKt3vw-aZRV7wgkN5oNTKBnEVeEUY&si=8SFNei4-dWnC44in)
 
 <span id="qt"></span>
 
