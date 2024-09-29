@@ -26,20 +26,14 @@ ul > li {
 }
 
 .lg {
-  font-size: 26px;
+  font-size: 26px !important;
+  line-height: 3;
 }
 
 .xl {
-  font-size: 32px;
+  font-size: 32px !important;
 }
 
-@font-face {
-  font-family: 'Amiri Quran';
-  font-style: normal;
-  font-weight: 400;
-  src: url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
-  unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
-}
 /* Automatically apply Arabic font to Arabic text */
 *:lang(ar) {
   font-family: "Amiri Quran", serif;
