@@ -13,6 +13,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
+$cardbg-color: #ffffff !default;
 $brand-color:      #1658e6 !default;
 $secondary-color:  rgb(79, 224, 42) !default;
 
@@ -27,6 +28,19 @@ $content-width:    800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
+
+// Default colors - CSS var are dynamic , scss var are static(compile time)
+:root {
+  --grey-color: #666666;
+  --text-color: #111; /* Dark text color */
+}
+
+[data-theme="dark-theme"] {
+  --background-color: #181818; /* Dark background */
+  --text-color: #cfcfcf; /* Dark text color */
+  --cardbg-color: #2e2e2e;
+  --grey-color: #afafaf;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {

@@ -21,11 +21,12 @@
   align-items: center;
   gap: 5px;
   margin-bottom: 11px;
+  color: var(--text-color);
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  // &,
+  // &:visited {
+  //   color: $grey-color-dark;
+  // }
 
   svg{
     display: inline-block;
@@ -47,7 +48,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: var(--text-color);
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -139,6 +140,7 @@
 .social-media-list {
   list-style: none;
   width: 100%;
+  padding: 0;
 
   li {
     a {
@@ -156,6 +158,7 @@
   @include relative-font-size(0.9375);
   display: flex;
   justify-content: space-between;
+  gap: 2.3rem;
   color: $grey-color;
   // margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
@@ -170,10 +173,6 @@
   // float: left;
   margin-bottom: $spacing-unit * 0.5;
   // padding-left: $spacing-unit * 0.5;
-}
-
-.footer-col-3 {
-  margin-left: 3rem;
 }
 
 
@@ -217,7 +216,7 @@
   list-style: none;
 
   > li {
-    background-color: #ffffff;
+    background-color: var(--cardbg-color);
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 11px;
@@ -234,6 +233,7 @@
       flex-direction: column;
       justify-content: space-between;
       height: 100%;
+      color: var(--text-color);
 
       > img {
         border-radius: 0.5rem;
@@ -280,7 +280,7 @@
     margin-top: 0;
     padding-top: 0;
     // padding-bottom: 11px;
-    color: #929292;
+    color: var(--grey-color);
     // overflow: hidden;
   }
 }
