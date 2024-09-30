@@ -1,5 +1,4 @@
 <header class="site-header" role="banner">
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -25,7 +24,10 @@
             {%- endif -%}
           {%- endfor -%}
           <a class="page-link" href="/basic_nahw/basic_sarf/2024/09/15/Important-terms-for-arabic-study.html">Terminologies</a>
+          <button id="theme-toggle" aria-label="Toggle Dark Mode">🌙</button>
+
         </div>
+        
       </nav>
     {%- endif -%}
   </div>

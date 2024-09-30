@@ -1,10 +1,51 @@
+// ----------------- Toggle Button ------------------------
+
+#theme-toggle {
+  padding: 10px;
+  font-size: 1rem; // Icon size
+  background-color: #f0f0f0; // Light mode background
+  color: #111; // Light mode icon color
+  border: none;
+  border-radius: 50%; // Circular button
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); // Subtle shadow for depth
+
+  // Hover effect
+  &:hover {
+    transform: scale(1.1); // Slight scaling on hover for interactivity
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15); // More pronounced shadow
+  }
+
+  // Active state for pressing effect
+  &:active {
+    transform: scale(0.95); // Button presses in slightly
+    box-shadow: none; // Remove shadow
+  }
+
+  // Dark mode styles
+  &[data-theme="dark"] {
+    background-color: #333; // Dark mode background
+    color: #fdfdfd; // Dark mode icon color
+
+    &:hover {
+      box-shadow: 0 8px 12px rgba(255, 255, 255, 0.15); // Lighter shadow for dark mode
+    }
+  }
+}
+
+
+// -------x--------- Toggle Button ----------x-------------
+
+
+
+// -------------- Category Filter -------------------------
 .category-filter-buttons {
   display: flex;
   gap: 10px;
   overflow-x: auto;
   padding: 10px 0;
   margin-bottom: 20px;
-  background-color: white;
 
   // Custom scrollbar styles
   &::-webkit-scrollbar {
