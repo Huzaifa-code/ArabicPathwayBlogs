@@ -20,22 +20,22 @@ To run the site locally on port 4000, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/arabic-pathway-blog.git
+   git clone https://github.com/Huzaifa-code/arabic-pathway-blog.git
    ```
 2. Navigate to the project directory:
-  ```bash
-  cd arabic-pathway-blog
-  ```
+     ```bash
+     cd arabic-pathway-blog
+     ```
 
 3. Install dependencies:
-  ```bash
-  bundle install
-  ```
+     ```bash
+     bundle install
+     ```
 
 4. Serve the site:
-  ```bash
-  bundle exec jekyll serve --livereload
-  ```
+     ```bash
+     bundle exec jekyll serve --livereload
+     ```
 
 Open your browser and visit http://localhost:4000 to view the site.
 
@@ -52,14 +52,14 @@ We welcome contributions from anyone interested in helping with this project! Yo
 
 1. Fork the repository.
 2. Create a new branch for your changes
-   ```bash
-    git switch -c my-feature-branch
-   ```
+      ```bash
+       git switch -c my-feature-branch
+      ```
 3. Make your changes and commit them with descriptive messages.
 4. Push to your fork
-   ```bash
-   git push origin my-feature-branch
-    ```
+      ```bash
+      git push origin my-feature-branch
+       ```
 5. Create a Pull Request describing your changes.
 
 Useful Links
