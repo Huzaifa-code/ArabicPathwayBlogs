@@ -20,7 +20,7 @@ To run the site locally on port 4000, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Huzaifa-code/arabic-pathway-blog.git
+   git clone https://github.com/Huzaifa-code/ArabicPathwayBlogs.git
    ```
 2. Navigate to the project directory:
      ```bash
