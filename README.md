@@ -59,7 +59,7 @@ We welcome contributions from anyone interested in helping with this project! Yo
 4. Push to your fork
       ```bash
       git push origin my-feature-branch
-       ```
+      ```
 5. Create a Pull Request describing your changes.
 
 Useful Links
