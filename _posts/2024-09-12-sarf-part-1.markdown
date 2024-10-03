@@ -59,6 +59,12 @@ In Classical Arabic tradition, name follows the pattern of Masdar.
 Words from this family are generally مُتَعَدٍّ and indicate that the action is <span class="hl">repetitive and takes place over a long period of time</span> .  
 For example, نَزَّلَ means to reveal gradually and repetitively over time. This verb is used to describe the revelation of the Quran over 23 years.
 
+<p class="lg" dir="rtl">
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ ۚ
+</p>
+
+In this Ayah - نزَّلَ is used to refer to Quran which was revealed gradually over 23 years and أَنزَلَ is used to refer to previous revelations , which were not revealed gradually like Quran but were revealed all at once to the previous prophets.
+
 This pattern can also imply hyperbole. For example, قَتَّلَ means to massacre, whereas قَتَلَ simply means to kill.
 
 ---
