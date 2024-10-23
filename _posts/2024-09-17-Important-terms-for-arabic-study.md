@@ -60,7 +60,19 @@ These terms are specially useful when reading I'raab books in Arabic,Urdu and us
 المبني (al-mabnī) – A noun or verb that does not change its ending at all (non-flexible) - In all the status Rafa,Nasab,jarr they look same.
 
 الجنس Gender
-العدد Number 
+
+العدد Number
+
+#### In plural there are different types :
+1. Sound Masculine Plural - جمع المُذَكَّرُ السالِمُ
+
+2. Sound Feminine Plural -  جمع المُؤَنَّثُ السالِمُ
+
+3. Broken Plural - جمع تَكْسِيْرً
+
+4. Plural by Meaning - اسْمُ جَمْعٍ
+
+
 القسم Type
 
 الموصف والصفة - Fragment - الموصف is ordinary Ism and  الصفة is descriptive word (an adjective) that follows it. In Arabic adjective comes after Ism
