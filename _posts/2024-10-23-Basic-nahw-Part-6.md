@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Number (Properties of Ism) - Basic Nahw Part 5"
+title:  "Number (Properties of Ism) - Basic Nahw Part 6"
 date:   2024-10-23 10:30:18 +0530
 categories: Basic_Nahw
 author: Huzaifa Qureshi
