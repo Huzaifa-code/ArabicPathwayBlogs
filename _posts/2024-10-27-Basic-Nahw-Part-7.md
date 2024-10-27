@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Type (Properties of Ism) - Basic Nahw Part 7"
-date:   2024-10-23 10:30:18 +0530
+date:   2024-10-27 10:30:18 +0530
 categories: Basic_Nahw
 author: Huzaifa Qureshi
 img: https://i.imgur.com/8LtcFdA.jpeg
