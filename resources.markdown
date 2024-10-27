@@ -86,6 +86,7 @@ Resources to Learn Arabic to understand the Quran
 ![alt text](https://i.imgur.com/eKpn7zx.jpeg)
 - Divine Speech (Free Content) : [Link](https://bayyinahtv.com/library/series/16)
 - Arabic : [Link](https://bayyinahtv.com/library/arabic)
+- Bayyinah Family Dream Section : [Link](https://family.bayyinah.com/c/dream-arabic/)
 
 <span id="wb"></span>
 
