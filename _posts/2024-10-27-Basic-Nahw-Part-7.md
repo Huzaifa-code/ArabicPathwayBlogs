@@ -50,13 +50,66 @@ Examples include هُوَ (he), هِيَ (she), نَحْنُ (we).
 Words used for pointing, such as “this,” “that,” “those,” and “these,” are Proper Isms.
 Examples: هٰذا (this), هٰذِهِ (this feminine), أُولٰئِكَ (those).
 
-![](https://i.imgur.com/liSbKTo.png)
+
+<table dir="rtl">
+    <thead>
+        <tr>
+            <th colspan="3">أسماء الإشارة</th>
+        </tr>
+    </thead>
+    <tbody dir="rtl">
+        <tr>
+            <td>هٰذَا</td>
+            <td>هٰذَانِ</td>
+            <td>هٰؤُلَاءِ</td>
+        </tr>
+        <tr>
+            <td>هٰذِهِ</td>
+            <td>هٰتَانِ</td>
+            <td>هٰؤُلَاءِ</td>
+        </tr>
+        <tr>
+            <td>ذٰلِكَ</td>
+            <td>ذَانِكَ</td>
+            <td>أُولٰئِكَ</td>
+        </tr>
+        <tr>
+            <td>تِلْكَ</td>
+            <td>تَانِكَ</td>
+            <td>أُولٰئِكَ</td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 ### 5. Relative Pronouns (الأسماء الموصولة)
 Relative pronouns connect clauses or phrases, and in Arabic, they are Proper.
 Examples include: الَّذِي (who, which – masculine), الَّتِي (who, which – feminine).
 
-![](https://i.imgur.com/VqIqwN2.png)
+<!-- ![](https://i.imgur.com/VqIqwN2.png) -->
+
+<table dir="rtl">
+    <tr>
+        <th colspan="3">الأَسْمَاءُ المَوْصُولَةُ</th>
+    </tr>
+    <tr>
+        <td>الَّذِي</td>
+        <td>اللَّذَانِ</td>
+        <td>الَّذِينَ</td>
+    </tr>
+    <tr>
+        <td>الَّتِي</td>
+        <td>التَّانِ</td>
+        <td>اللَّاتِي، اللَّائِي، اللَّوَاتِي</td>
+    </tr>
+    <tr>
+        <td>مَا</td>
+        <td colspan="2">مَنْ</td>
+    </tr>
+</table>
+
+
 
 ### 6. The One Being Called (المنادى)
 When calling someone directly with يا (O), the following Ism is Proper.
