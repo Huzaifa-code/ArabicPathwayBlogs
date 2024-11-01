@@ -91,3 +91,7 @@ All Praise and thanks belongs to Allah, who sent down the Scripture to His serva
 تعریف اللہ کے لیے ہے جس نے اپنے بندے پر یہ کتاب نازل کی اور اس میں کوئی ٹیڑھ نہ رکھی
 </p>
 Syed Abu Ali Maududi
+
+
+
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kV7VsleXmo0?si=7wUvdkPC7hGexw0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
