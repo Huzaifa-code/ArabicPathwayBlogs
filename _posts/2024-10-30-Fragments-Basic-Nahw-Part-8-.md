@@ -43,6 +43,10 @@ It’s important to note that when the names of Allah appear in succession, they
 **Examples:**
 - **العليم الحكيم** (The All-Knowing, The Wise)
 
+
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/dWr6btVt5gk?si=RpcqyUfnrznJ6LLJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 # 5. The Pointing Fragment (اسم الإشارة)
 
 Comprising two parts:
@@ -135,3 +139,6 @@ Forming Fragments and Sentences
   Pointing at "Al" Words: To create a sentence when pointing to a noun with "Al," add a pronoun matching both the Ism Ishara and the noun between them.
 
     Example: هذا هو الرجل (This is the man). The pronoun "Hua" preserves the "Al" while forming a sentence.
+
+
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/IYkIGJwgWRE?si=JOSAfE5hcYM3lwup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
