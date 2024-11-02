@@ -97,6 +97,8 @@ Resources to Learn Arabic to understand the Quran
 - [https://thearabicpages.com/](https://thearabicpages.com/)
 - [https://arabicblog.info/](https://arabicblog.info/)
 - Quran,Arabic Resources [kalamullah.com](https://www.kalamullah.com/learning-arabic.html)
+- Arabic Enthusiasts : [Link](https://arabicenthusiasts.com/arabic-learning-resources/)
+- Create Notes with AI - Upload your sources Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and more : [https://notebooklm.google/](https://notebooklm.google/)
 
 <span id="yt"></span>
 
