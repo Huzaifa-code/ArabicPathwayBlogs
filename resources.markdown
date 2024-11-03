@@ -62,7 +62,6 @@ Resources to Learn Arabic to understand the Quran
 - Bayyinah Dream text books in Urdu : [Link](https://drive.google.com/drive/folders/1INrTyoIT4AB9rB-SRwJ6GyYepOAfN-SM)
 - Dream Arabic reader with notes : [Link](https://drive.google.com/drive/folders/1okmR2Mb8-_rIUxBAAwyJHeOfsC6PUKM_)
 - Elementary & intermediate Modern Standard Arabic : [Link](https://ia802700.us.archive.org/25/items/ElementaryAndIntermediateModernStandardArabic/Elementary%20and%20Intermediate%20Modern%20Standard%20Arabic.pdf) , YT Playlist : [Link](https://youtube.com/playlist?list=PLu-MGJ--w3aAJkWmKEyQ4tN5thcU5CZ-D&si=dAAeUlGHaVnXK3mX)
-- Grammatical shift / iltifat pdf by Abdel Haleem : [Link](https://drive.google.com/file/d/1rWS5Ap-YFWS5BglMwhYAMOZjSQGHfjCy/view?usp=drivesdk)
 - Dua Book (with word by word translation) by Green Tech Foundation : [Link](https://drive.google.com/file/d/16Ct26XKRx-AaCZHs1PhZqiDMnkCZzye1/view)
 - Arabic Books provided by Nasrin Akther :  [Link](https://www.scribd.com/user/16913037/Nasrin-Akther)
 - Madina Arabic Books by LQ Toronto publishing : [Link](https://www.lqtoronto.com/madinaarabic.html)
@@ -76,6 +75,10 @@ Resources to Learn Arabic to understand the Quran
 - Syntax and Translation of Holy Quran by Abu Farees Ad-Dahda : [Link](https://drive.google.com/file/d/1g4V7f--9BQr0uJT6S4IkRg4T3jTH2tL5/view)
 - Grammatical breakdown of Surahs by Sheikh Muhammad Sayyid Tantawy Al Azhar [Link](https://drive.google.com/file/d/1gmSVZLgAQKa6-zytbnjblKOguMC0XqfU/view?usp=drivesdk)
 - I'raab Al Quran Al Kareem by Doctor Mohammad Sulayman Yaqoot [Link](https://drive.google.com/file/d/1nvuNsHVnPmb6uPFKLrySINNWPG6yxrjU/view?usp=drivesdk)
+
+    Balagha Books :
+    - Grammatical shift / iltifat pdf by Abdel Haleem : [Link](https://drive.google.com/file/d/1rWS5Ap-YFWS5BglMwhYAMOZjSQGHfjCy/view?usp=drivesdk) 
+    - Jawahir-albalagha : [Link](https://archive.org/details/jawahir-albalagha)
 
 
 
@@ -92,7 +95,7 @@ Resources to Learn Arabic to understand the Quran
 
 ## Blogs & other Webistes
 ![alt text](https://i.imgur.com/drC91fV.jpeg)
-- [https://motivatedsisters.com/](https://motivatedsisters.com/)
+- [https://motivatedsisters.com/](https://motivatedsisters.com/) 
 - Two good websites for practicing Arabic reading. Tap on words to check harakat : [https://arabic.ba](https://arabic.ba) , [https://arabicreadings.com/](https://arabicreadings.com/)
 - [https://thearabicpages.com/](https://thearabicpages.com/)
 - [https://arabicblog.info/](https://arabicblog.info/)
@@ -104,7 +107,7 @@ Resources to Learn Arabic to understand the Quran
 
 ## YouTube Arabic Resources 
 ![alt text](https://i.imgur.com/c7bvCMs.jpeg)
-- Bayyinah Dream [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q), [Intensive 2](https://youtube.com/playlist?list=PLutdSTmJ7bAJ9IT9MY03oX0HDOLAXKRRp&si=27a2Iwz_pLrRPig-), [Intensive 3](https://youtube.com/playlist?list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI&si=2ITve28E6kmWzr6_), [Intensive 4](https://youtube.com/playlist?list=PLutdSTmJ7bALtCYBhJwP6E1ydBalwhHS1&si=q3mJMPCFTwBvpfyH), [Study Session](https://youtube.com/playlist?list=PLutdSTmJ7bALQVpun2dB6gY7ekBOymqSC&si=xf0uwbZYM-itBILT)
+- Bayyinah Dream [Intensive 1](https://youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z&si=yjmwMuUOnwmJIY4q), [Intensive 2](https://youtube.com/playlist?list=PLutdSTmJ7bAJ9IT9MY03oX0HDOLAXKRRp&si=27a2Iwz_pLrRPig-), [Intensive 3](https://youtube.com/playlist?list=PLutdSTmJ7bAIpObrMdOUq4tSGzY22rCZI&si=2ITve28E6kmWzr6_), [Intensive 4](https://youtube.com/playlist?list=PLutdSTmJ7bALtCYBhJwP6E1ydBalwhHS1&si=q3mJMPCFTwBvpfyH), [Study Session](https://youtube.com/playlist?list=PLutdSTmJ7bALQVpun2dB6gY7ekBOymqSC&si=xf0uwbZYM-itBILT), [Dream Big Intensive](https://youtube.com/playlist?list=PLutdSTmJ7bAIApzbo3C9vu1eWsMh2ZyUj&si=HqZh1oOYuUua8b5d)
 - Channel [Lisan ul Quran Amir Sohail](https://www.youtube.com/@lisanulquran)
 - Lisan ul Quran - Amir Sohail course in English [Link](https://youtube.com/playlist?list=PLmcMQH9TZ96AXE30h38NA5-V4XtBcHXTF&si=HwIuHsTe58z39rsV)
 - [The Arabic Guide](https://www.youtube.com/@TheArabicGuide)
