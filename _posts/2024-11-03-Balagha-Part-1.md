@@ -73,3 +73,25 @@ Examples: عزَّرَ (honor/humiliate)
 
 In English word "Screen" can have opposite meaning - When a Film is Screened then it 'shown' to you , But if i screened myself from you using a curtain then i am doing opposite of showing - 'hiding'
 
+
+## 2 types of complexity or difficulty in Arabic language:
+
+##  التعقيد اللفظي
+When wording is convoluted. 
+
+It may involve unusual word order, excessive use of synonyms, or uncommon vocabulary, making it challenging to understand the sentence at a surface level.
+
+## التعقيد المعنوي
+When meaning is convoluted
+
+Words may be clear and straightforward, but the ideas or concepts are complex. This type of complexity often requires the reader to think deeply or interpret the meaning beyond the literal wording.
+
+Example: A sentence could be constructed simply but might convey deep philosophical ideas or subtle implications, requiring more thought to fully grasp its meaning.
+
+
+
+
+
+
+
+
