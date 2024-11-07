@@ -46,35 +46,30 @@
 
     <!-- Theme toggle  -->
     <script>
-      const toggleButton = document.getElementById('theme-toggle');
-      const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
-      
-      let body = document.querySelector("body")
+      // Toggle theme
+      document.addEventListener("DOMContentLoaded", function () {
+        const toggleButton = document.getElementById('theme-toggle');
+        const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : 'light'; // Default to 'light' if not set
+        let body = document.querySelector("body");
 
-      if (currentTheme) {
-        // document.documentElement.setAttribute('data-theme', currentTheme);
-        body.setAttribute('data-theme', currentTheme)
-    
-        if (currentTheme === 'dark') {
-          toggleButton.textContent = '☀️'; // Change icon to sun for light mode
-        }
-      }
-    
-      toggleButton.addEventListener('click', function() {
-        // let theme = document.documentElement.getAttribute('data-theme');
-        let theme = body.getAttribute('data-theme');
-        
-        if (theme === 'dark-theme') {
-          // document.documentElement.setAttribute('data-theme', 'light-theme');
-          body.setAttribute('data-theme', 'light-theme');
-          localStorage.setItem('theme', 'light');
-          toggleButton.textContent = '🌙'; // Change icon to moon for dark mode
-        } else {
-          // document.documentElement.setAttribute('data-theme', 'dark-theme');
-          body.setAttribute('data-theme', 'dark-theme');
-          localStorage.setItem('theme', 'dark');
-          toggleButton.textContent = '☀️'; // Change icon to sun for light mode
-        }
+        // Apply the stored theme
+        body.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+
+        // Add event listener to toggle button
+        toggleButton.addEventListener('click', function () {
+          let theme = body.getAttribute('data-theme');
+          
+          if (theme === 'dark') {
+            body.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+          } else {
+            body.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+          }
+        });
       });
     </script>
 

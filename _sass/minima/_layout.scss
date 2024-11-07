@@ -6,7 +6,15 @@
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  // position: relative;
+
+  position: sticky; /* Make navbar fixed */
+  top: 0; /* Align it to the top of the viewport */
+  right: 0; /* Keep it aligned to the right */
+  width: 100%; /* Make sure it spans the full width of the viewport */
+  z-index: 1000; /* Ensure it appears above other content */
+  padding: 10px 0; /* Add padding for better spacing */
+  background-color: var(--background-color)
 }
 
 .site-title {
@@ -38,6 +46,7 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+
 
   .nav-trigger {
     display: none;

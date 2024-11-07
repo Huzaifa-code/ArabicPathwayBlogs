@@ -33,9 +33,10 @@ $on-laptop:        800px !default;
 :root {
   --grey-color: #666666;
   --text-color: #111; /* Dark text color */
+  --background-color: #fff; /* Dark background */
 }
 
-[data-theme="dark-theme"] {
+[data-theme="dark"] {
   --background-color: #181818; /* Dark background */
   --text-color: #cfcfcf; /* Dark text color */
   --cardbg-color: #2e2e2e;
