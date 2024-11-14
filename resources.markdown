@@ -39,18 +39,20 @@ Resources to Learn Arabic to understand the Quran
 - Nahw Brother Muhammad notes Day 57 to Day 127 : [Link](https://drive.google.com/file/d/1gRsWqbCG7KrhWtR9IhXQLpp7VXsN15y2/view?usp=drivesdk)
 - Advanced structure chapter notes : [Link](https://drive.google.com/drive/folders/1SPPT7iOi6O1WVBCnBYQFrn7TWZrcsFMx)
 - Dream complete notes by Brother Zeeshan Nissar : [Link](https://drive.google.com/drive/folders/1s5oR_MezyH9oMSfOT3Luen46z3050kvd) 
-- Surah Munafiqoon all notes : [Link](https://drive.google.com/drive/folders/1iMkANrCOnuDOw1GAB5IRdo7A5zeZ5CCr)
-- Surah Mulk Dream Notes [Link](https://drive.google.com/file/d/1WQULl_es-oQkiNAoE9IzLIVpbG6ElL7S/view)
-- Surah Jumuah Nahw notes by Rehan Sohaib : [Link](https://drive.google.com/file/d/15vkKpH47A87oLpElE3H1abas111wuJCO/view?usp=drivesdk)
 - Dream Sarf Day 1 to Day 75  notes by Sister azlina yousuf :[Link](https://drive.google.com/file/d/1jFHhw1-AZxH1W9frvUxy8OT1ulg-nk-B/view?usp=drivesdk)
-- Quran Notes from Nahw class - Dream (Nahw Day 1 – Day 50) [Link](https://drive.google.com/file/d/1w3yNa_sOus-zBsgW_-338nQ7phiXta46/view)
 - Dream Vocabulary Textbook :  [Link](https://drive.google.com/file/d/1huZNyZpBnUYqpt05XQ4HMeQPT5kqpeo5/view)
-- Tafsir notes from Bayyinah : [Link](https://archive.org/download/Linguisticmiracle.comTafsirNotes-Bayyinah.tvnoumanAliKhan)
 - Verbs in Quran ordered by Frequency - Brother Mukhtar Ahmed : [Link](https://drive.google.com/file/d/1ZWLiii_VvCUgkv7U-MXrJ2ceN0nA8HWb/view)
 - Basic Grammar for kids [Link](https://drive.google.com/drive/folders/1xx6Wrd6A8lpCWqwAli3O7vP7KHX3u3t0) , [YouTube Playlist](https://youtube.com/playlist?list=PLOWDCV-Ns5gIj4UothhPp9IRYrrSXV4_h&si=kdwV-XYG5XHIzjbx)
 - Advanced Nahw chapters notes : [Link](https://drive.google.com/drive/folders/1VoNm06kwmIL3vBqIi9gey2MmNHWz4MYg)
 - Advanced Sarf Chapterwize notes : [Link](https://drive.google.com/drive/folders/19GNiNTjU4mIiLoLQfqsHN0XfbWvDuKwu)
 - Sister Eman Arabic reader and Adv. reader notes : [Link](https://drive.google.com/drive/folders/1x-2qj3ohVQFmO-8ra82CsTzISZn0qJgZ)
+- Quran Notes
+	* [https://stories.naveeraashraf.com/tafseer-notes/](https://stories.naveeraashraf.com/tafseer-notes/)
+	* Surah Munafiqoon all notes : [Link](https://drive.google.com/drive/folders/1iMkANrCOnuDOw1GAB5IRdo7A5zeZ5CCr)
+	* Surah Mulk Dream Notes [Link](https://drive.google.com/file/d/1WQULl_es-oQkiNAoE9IzLIVpbG6ElL7S/view)
+	* Surah Jumuah Nahw notes by Rehan Sohaib : [Link](https://drive.google.com/file/d/15vkKpH47A87oLpElE3H1abas111wuJCO/view?usp=drivesdk)
+	* Quran Notes from Nahw class - Dream (Nahw Day 1 – Day 50) [Link](https://drive.google.com/file/d/1w3yNa_sOus-zBsgW_-338nQ7phiXta46/view)
+	* Tafsir notes from Bayyinah : [Link](https://archive.org/download/Linguisticmiracle.comTafsirNotes-Bayyinah.tvnoumanAliKhan)
 
 
 <span id="bk"></span>
@@ -95,7 +97,8 @@ Resources to Learn Arabic to understand the Quran
 
 ## Blogs & other Webistes
 ![alt text](https://i.imgur.com/drC91fV.jpeg)
-- [https://motivatedsisters.com/](https://motivatedsisters.com/) 
+- [https://motivatedsisters.com](https://motivatedsisters.com/)
+- [https://stories.naveeraashraf.com/category/arabic/](https://stories.naveeraashraf.com/category/arabic/)
 - Two good websites for practicing Arabic reading. Tap on words to check harakat : [https://arabic.ba](https://arabic.ba) , [https://arabicreadings.com/](https://arabicreadings.com/)
 - [https://thearabicpages.com/](https://thearabicpages.com/)
 - [https://arabicblog.info/](https://arabicblog.info/)
