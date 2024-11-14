@@ -2,7 +2,7 @@
   layout: post
   title: "Fragments Basic Nahw Part 8 "
   date: "2024-10-30T13:34:10.089Z"
-  categories: [Basic_nahw]
+  categories: [Basic_Nahw]
   author: Huzaifa Qureshi
   img: 
   description: "Fragments - الموصوف والصِّفَة and اسم الإشارة"
