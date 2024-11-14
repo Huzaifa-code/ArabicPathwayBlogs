@@ -5,9 +5,10 @@ date:   2024-11-03 9:30:18 +0530
 categories: Balagha
 author: Huzaifa Qureshi
 description: "فصاحة Fasaha and Balagha"
-img: 
+img: https://i.imgur.com/3rXgwDD.jpeg
 ---
 
+![](https://i.imgur.com/3rXgwDD.jpeg)
 
 ### فصاحة Fasaha
 
