@@ -53,6 +53,9 @@ Resources to Learn Arabic to understand the Quran
 	* Surah Jumuah Nahw notes by Rehan Sohaib : [Link](https://drive.google.com/file/d/15vkKpH47A87oLpElE3H1abas111wuJCO/view?usp=drivesdk)
 	* Quran Notes from Nahw class - Dream (Nahw Day 1 – Day 50) [Link](https://drive.google.com/file/d/1w3yNa_sOus-zBsgW_-338nQ7phiXta46/view)
 	* Tafsir notes from Bayyinah : [Link](https://archive.org/download/Linguisticmiracle.comTafsirNotes-Bayyinah.tvnoumanAliKhan)
+- Balagha Notes
+	* Balagha Intensive notes by Brother Zeeshan : [Link](https://drive.google.com/drive/folders/1--NOxRbo5OjhOnKu5orpP7qDAk3mPvd5?usp=drive_link)
+	* More Balagha Intensive notes : [Link](https://drive.google.com/drive/folders/1-9kBY3G1NRVPXvtSyb7_FSWE-w_u4JDF?usp=drive_link)
 
 
 <span id="bk"></span>
