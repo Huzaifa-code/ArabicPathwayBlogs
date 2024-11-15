@@ -1,9 +1,11 @@
 /**
  * Site header
  */
+
 .site-header {
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  width: 100%;
 
   // Positioning context for the mobile navigation icon
   // position: relative;
@@ -14,27 +16,29 @@
   width: 100%; /* Make sure it spans the full width of the viewport */
   z-index: 1000; /* Ensure it appears above other content */
   padding: 10px 0; /* Add padding for better spacing */
-  background-color: var(--background-color)
+  // background-color: var(--background-color);
+  font-size: 16px;
+  font-weight: 600;
+
+  /* Glassy background */
+  background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent background */
+  backdrop-filter: blur(10px); /* Adds blur effect */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+
+  /* Optional styling for glassy effect */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds subtle shadow */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Lighter border for glassy look */
+
 }
 
 .site-title {
-  @include relative-font-size(1.3);
-  font-weight: 600;
+  
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
-  margin-bottom: 0;
   float: left;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 5px;
-  margin-bottom: 11px;
-  color: var(--text-color);
-
-  // &,
-  // &:visited {
-  //   color: $grey-color-dark;
-  // }
 
   svg{
     display: inline-block;
@@ -47,7 +51,6 @@
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
-
   .nav-trigger {
     display: none;
   }
@@ -58,11 +61,16 @@
 
   .page-link {
     color: var(--text-color);
-    line-height: $base-line-height;
+    // line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+
+    &:hover {
+      color: var(--grey-color);
+      text-decoration: none;
     }
   }
 
@@ -121,7 +129,7 @@
     .page-link {
       display: block;
       margin-left: 20px;
-      padding: 5px 10px;
+      // padding: 5px 10px;
 
       &:not(:last-child) {
         margin-right: 0;
@@ -155,10 +163,6 @@
     a {
       display: flex;
       align-items: center;
-
-      span{
-        padding-bottom: 11px;
-      }
     }
   }
 }
@@ -191,6 +195,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  font-family: "Amiri Quran", serif;
 }
 
 .page-heading {
