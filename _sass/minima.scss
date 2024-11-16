@@ -36,6 +36,7 @@ $on-laptop:        800px !default;
   --text-color: #111; /* Dark text color */
   --background-color: #fff; /* Dark background */
   --highlight-color: rgba(175, 255, 94, 0.788);
+  --list-color: #6e6e6e;
 }
 
 [data-theme="dark"] {
@@ -44,6 +45,7 @@ $on-laptop:        800px !default;
   --cardbg-color: #2e2e2e;
   --grey-color: #afafaf;
   --highlight-color: rgba(153, 75, 255, 0.8);
+  --list-color: #e6e6e6;
 }
 
 // Use media queries like this:
