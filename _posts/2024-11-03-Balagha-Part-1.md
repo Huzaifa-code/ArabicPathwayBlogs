@@ -92,7 +92,6 @@ Example: A sentence could be constructed simply but might convey deep philosophi
 
 
 
+### More Resources :
 
-
-
-
+[Notes](https://drive.google.com/drive/folders/1-9kBY3G1NRVPXvtSyb7_FSWE-w_u4JDF)

@@ -36,30 +36,33 @@ layout: default
 
 
   <!-- TODO : fix: theme of comments should change realtime when theme changes also update max-width -->
-  <script>
-    // Retrieve the theme from localStorage or set a default
-    const theme = localStorage.getItem('theme') || 'light';
-    
-    // Create and insert the Giscus script element
-    const giscusScript = document.createElement('script');
-    giscusScript.src = "https://giscus.app/client.js";
-    giscusScript.setAttribute('data-repo', 'Huzaifa-code/ArabicPathwayBlogs');
-    giscusScript.setAttribute('data-repo-id', 'R_kgDOMwjnTQ');
-    giscusScript.setAttribute('data-category', 'Q&A');
-    giscusScript.setAttribute('data-category-id', 'DIC_kwDOMwjnTc4CikrO');
-    giscusScript.setAttribute('data-mapping', 'url');
-    giscusScript.setAttribute('data-strict', '0');
-    giscusScript.setAttribute('data-reactions-enabled', '1');
-    giscusScript.setAttribute('data-emit-metadata', '0');
-    giscusScript.setAttribute('data-input-position', 'top');
-    giscusScript.setAttribute('data-theme', theme);
-    giscusScript.setAttribute('data-lang', 'en');
-    giscusScript.setAttribute('data-loading', 'lazy');
-    giscusScript.crossOrigin = 'anonymous';
-    giscusScript.async = true;
-    
-    document.body.appendChild(giscusScript);
-  </script>
+  <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
+    <script>
+      // Retrieve the theme from localStorage or set a default
+      const theme = localStorage.getItem('theme') || 'light';
+      
+      // Create and insert the Giscus script element
+      const giscusScript = document.createElement('script');
+      giscusScript.src = "https://giscus.app/client.js";
+      giscusScript.setAttribute('data-repo', 'Huzaifa-code/ArabicPathwayBlogs');
+      giscusScript.setAttribute('data-repo-id', 'R_kgDOMwjnTQ');
+      giscusScript.setAttribute('data-category', 'Q&A');
+      giscusScript.setAttribute('data-category-id', 'DIC_kwDOMwjnTc4CikrO');
+      giscusScript.setAttribute('data-mapping', 'url');
+      giscusScript.setAttribute('data-strict', '0');
+      giscusScript.setAttribute('data-reactions-enabled', '1');
+      giscusScript.setAttribute('data-emit-metadata', '0');
+      giscusScript.setAttribute('data-input-position', 'top');
+      giscusScript.setAttribute('data-theme', theme);
+      giscusScript.setAttribute('data-lang', 'en');
+      giscusScript.setAttribute('data-loading', 'lazy');
+      giscusScript.crossOrigin = 'anonymous';
+      giscusScript.async = true;
+      
+      document.body.appendChild(giscusScript);
+    </script>
+  </div>
+
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
