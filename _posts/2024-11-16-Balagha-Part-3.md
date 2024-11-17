@@ -125,4 +125,8 @@ If it is true then, it does't matter whether we say or not , it will still exist
 
 ### More Resources :
 
+By Bayyinah Dream Students
+
 [Notes](https://drive.google.com/drive/folders/1-9kBY3G1NRVPXvtSyb7_FSWE-w_u4JDF)
+
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/d94217c608.html" style="border: 0px; width: 100%; height: 400px;"></iframe>

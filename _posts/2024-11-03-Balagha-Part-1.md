@@ -94,4 +94,9 @@ Example: A sentence could be constructed simply but might convey deep philosophi
 
 ### More Resources :
 
+By Bayyinah Dream Students
+
 [Notes](https://drive.google.com/drive/folders/1-9kBY3G1NRVPXvtSyb7_FSWE-w_u4JDF)
+
+
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/d94217c608.html" style="border: 0px; width: 100%; height: 400px;"></iframe>
