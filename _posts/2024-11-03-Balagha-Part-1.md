@@ -27,6 +27,8 @@ The goal of Fasaha is to achieve understanding.
 Good authors and poets possess Fasaha because their work is understandable and effectively conveys their message.
 Fasaha standards are set by those who are educated in the language.
 
+Quran 28:34 :
+![](https://i.imgur.com/jr1mWUP.png)
 
 
 ### The Role of Poets in Ancient Arabia: 

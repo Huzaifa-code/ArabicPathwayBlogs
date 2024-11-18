@@ -121,6 +121,69 @@ If it is true then, it does't matter whether we say or not , it will still exist
 
     Example - you say to your brother "You have exam tommorow" and he already knows about it
 
+### 3 Audiences of Khabar :
+
+In **Arabic rhetoric (Balagha)**, the audience of a **Khabar** (a statement conveying information) is called **المُخاطَب** (the addressed person). The purpose and delivery of **Khabar** depend on the type of audience. The audience can be classified into three main categories based on their attitude towards the information being conveyed:
+
+---
+
+### **1. Neutral Audience (خالي الذهن)**
+- **Definition**: This audience is unaware of the information being conveyed. They have no prior knowledge or preconception about it. 
+- **Purpose of Khabar**: To **inform** (إفادة الخبر).
+- **Characteristics**:
+  - The statement is delivered in a straightforward and clear manner.
+  - No emphasis is needed since the audience has no reason to doubt or reject the information.
+- **Example**:
+  - **الجوُّ جميلٌ** (The weather is beautiful.)
+  - The speaker is merely informing the audience about the state of the weather.
+
+---
+
+### **2. Doubtful Audience (المتردد)**
+- **Definition**: This audience has doubts or is uncertain about the truth of the information. They require clarification or evidence to be convinced.
+- **Purpose of Khabar**: To **confirm** (تأكيد الخبر) and remove doubt.
+- **Characteristics**:
+  - The statement is emphasized using rhetorical tools, such as:
+    - **Particles of emphasis**: مثل **إنَّ** (indeed), **قد** (certainly).
+    - Repetition for reinforcement.
+  - The goal is to persuade the audience of the truthfulness of the information.
+- **Example**:
+  - **إنَّ الجوَّ جميلٌ** (Indeed, the weather is beautiful.)
+  - The emphasis **إنَّ** reassures the listener that the weather is indeed beautiful, removing any doubts.
+
+---
+
+### **3. Refusing Audience (المنكر)**
+- **Definition**: This audience denies or rejects the information being conveyed. They need strong evidence or a forceful assertion to be convinced.
+- **Purpose of Khabar**: To **establish** (إقامة الحجة) and overcome their denial.
+- **Characteristics**:
+  - The statement uses **strong emphasis** and **multiple levels of confirmation**, such as:
+    - **Swearing by oaths**: مثل **والله** (By Allah!).
+    - Combining tools like **إنّ**, **لام التوكيد** (the emphatic ل), or **قد**.
+  - The purpose is to compel the audience to accept the truth despite their initial denial.
+- **Example**:
+  - **واللهِ إنَّ الجوَّ لجميلٌ** (By Allah, indeed the weather is truly beautiful.)
+  - The oath **والله**, combined with **إنَّ** and **لام التوكيد**, strongly affirms the statement for someone who refuses to believe it.
+
+---
+
+### **Comparison of the Three Types**
+
+| **Type**            | **Audience Attitude**    | **Purpose of Khabar**   | **Features**                            | **Example**                                   |
+|----------------------|--------------------------|--------------------------|------------------------------------------|-----------------------------------------------|
+| **Neutral (خالي الذهن)** | No knowledge            | Inform (إفادة الخبر)      | No emphasis                              | **الجوُّ جميلٌ** (The weather is beautiful.)   |
+| **Doubtful (المتردد)** | Uncertain               | Confirm (تأكيد الخبر)     | Use of emphasis tools (e.g., **إنّ**)    | **إنَّ الجوَّ جميلٌ** (Indeed, the weather is beautiful.) |
+| **Refusing (المنكر)**  | Denies the information   | Establish (إقامة الحجة)   | Strong emphasis (oaths, repetition)      | **واللهِ إنَّ الجوَّ لجميلٌ** (By Allah, the weather is truly beautiful.) |
+
+---
+
+### Practical Use in the Qur'an:
+The Qur'an uses different levels of **Khabar** to address these audiences, depending on their attitude towards the message of Islam. For instance:
+
+- **Neutral audience**: Clear and direct guidance, e.g., **وَأَقِيمُوا الصَّلَاةَ** (And establish prayer) [Surah Al-Baqarah 2:43].
+- **Doubtful audience**: Emphasis is added, e.g., **إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ** (Indeed, Allah is over all things competent) [Surah Al-Baqarah 2:20].
+- **Refusing audience**: Strong oaths and emphasis, e.g., **وَٱللَّهِ إِنَّكُمْ لَفِى ضَلَـٰلٍ مُّبِينٍ** (By Allah, indeed you are in manifest error) [Surah Yusuf 12:95].
+
 
 
 ### More Resources :
