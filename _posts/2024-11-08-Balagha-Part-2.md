@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Balagha Part 2 - Intro to Balagha "
-date:   2024-11-03 9:30:18 +0530
+date:   2024-11-08 9:30:18 +0530
 categories: Balagha
 author: Huzaifa Qureshi
 description: "Balagha"

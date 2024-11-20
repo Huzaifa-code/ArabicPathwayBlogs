@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Balagha Part 4"
-date:   2024-11-03 9:30:18 +0530
+date:   2024-11-17 9:30:18 +0530
 categories: Balagha
 author: Huzaifa Qureshi
 description: "Balagha - Khabar -  خبر , Tanzeel al-Munzila (تنزيل المنزلة)"
@@ -53,10 +53,11 @@ Based on these audience types, Tanzeel al-Munzila can be categorized as follows:
 Tanzeel al-Munzila can also manipulate the audience's perception of time. The sources illustrate this with examples of Ism Faail (active participle) and Ism Maf'ool (passive participle) acting as verbs:
 
 *   **Using Ism Faail and Ism Maf'ool to denote immediacy (Permanent → Temporary).** When used as verbs, Ism Faail and Ism Maf'ool describe actions that are happening in the present, emphasizing their temporary nature. For example, "You should praise Allah" presents praising as an ongoing action.
-*   **Using Jumla Ismiya to denote permanence (Temporary → Permanent).** Jumla Ismiya, a nominal sentence without a verb, suggests a state of being or a continuous action. For example, "A king being praised" describes an ongoing state of praise.
+*   **Using Jumla Ismiya to denote permanence (Temporary → Permanent).** Jumla Ismiya, a nominal sentence without a فعل, suggests a state of being or a continuous action. For example, "A king being praised" describes an ongoing state of praise.
 
 By shifting the audience's understanding of tense, Tanzeel al-Munzila can create a sense of urgency, emphasize the temporary nature of an action, or suggest the permanence of a situation.
 
+![](https://i.imgur.com/blwuswy.png)
 
 
 ### More Resources :
