@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Balagha Part 3"
-date:   2024-11-03 9:30:18 +0530
+date:   2024-11-16 9:30:18 +0530
 categories: Balagha
 author: Huzaifa Qureshi
 description: "Balagha - أُسْلُوب , Khabar -  خبر "
