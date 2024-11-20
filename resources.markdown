@@ -16,7 +16,7 @@ permalink: /resources/
 - <a href="#bayyinah">Bayyinah</a> 
 - <a href="#wb">Webistes & Blogs</a> 
 - <a href="#yt">YouTube Arabic Resources</a> 
-- <a href="qt">Quran Tafsirs</a>
+- <a href="#qt">Quran Tafsirs</a>
 - <a href="#qh">Quran Hive - quranhive.com</a> 
 - <a href="#ara">Aratools - aratools.com</a> 
 - <a href="#cq">corpus quran</a> 
@@ -47,6 +47,7 @@ Resources to Learn Arabic to understand the Quran
 - Advanced Sarf Chapterwize notes : [Link](https://drive.google.com/drive/folders/19GNiNTjU4mIiLoLQfqsHN0XfbWvDuKwu)
 - Sister Eman Arabic reader and Adv. reader notes : [Link](https://drive.google.com/drive/folders/1x-2qj3ohVQFmO-8ra82CsTzISZn0qJgZ)
 - Quran Notes
+    * Complete Quran I'raab : [Link](https://drive.google.com/file/d/1nZjUE8pXQf6-jOdwPoXIbeL5obq5N9ba/view)
 	* [https://stories.naveeraashraf.com/tafseer-notes/](https://stories.naveeraashraf.com/tafseer-notes/)
 	* Surah Munafiqoon all notes : [Link](https://drive.google.com/drive/folders/1iMkANrCOnuDOw1GAB5IRdo7A5zeZ5CCr)
 	* Surah Mulk Dream Notes [Link](https://drive.google.com/file/d/1WQULl_es-oQkiNAoE9IzLIVpbG6ElL7S/view)
