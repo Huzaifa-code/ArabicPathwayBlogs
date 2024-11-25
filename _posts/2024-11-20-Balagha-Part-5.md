@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Balagha Part 5"
+title:  "Balagha Part 5 - الأمر Command"
 date:   2024-11-20 8:30:18 +0530
 categories: Balagha
 author: Huzaifa Qureshi
@@ -67,7 +67,6 @@ Amr can take various forms:
 
    Example:  
    - "Let them come."  
-<!--! Study and update below content -->
 3. **When certain Isms are "married" to Harf**  
    - Harf implies the command.  
 

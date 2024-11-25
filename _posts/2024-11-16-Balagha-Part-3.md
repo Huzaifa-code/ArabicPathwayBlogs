@@ -127,7 +127,7 @@ In **Arabic rhetoric (Balagha)**, the audience of a **Khabar** (a statement conv
 
 ---
 
-### **1. Neutral Audience (خالي الذهن)**
+### **1. Neutral Audience (خالي الذهن)** -خبر ابتداءي 
 - **Definition**: This audience is unaware of the information being conveyed. They have no prior knowledge or preconception about it. 
 - **Purpose of Khabar**: To **inform** (إفادة الخبر).
 - **Characteristics**:
@@ -139,7 +139,7 @@ In **Arabic rhetoric (Balagha)**, the audience of a **Khabar** (a statement conv
 
 ---
 
-### **2. Doubtful Audience (المتردد)**
+### **2. Doubtful Audience (المتردد)** - خبر طلبي
 - **Definition**: This audience has doubts or is uncertain about the truth of the information. They require clarification or evidence to be convinced.
 - **Purpose of Khabar**: To **confirm** (تأكيد الخبر) and remove doubt.
 - **Characteristics**:
@@ -153,7 +153,7 @@ In **Arabic rhetoric (Balagha)**, the audience of a **Khabar** (a statement conv
 
 ---
 
-### **3. Refusing Audience (المنكر)**
+### **3. Refusing Audience (المنكر)** - خبر إنكاري
 - **Definition**: This audience denies or rejects the information being conveyed. They need strong evidence or a forceful assertion to be convinced.
 - **Purpose of Khabar**: To **establish** (إقامة الحجة) and overcome their denial.
 - **Characteristics**:
