@@ -106,6 +106,49 @@ So, What are you ? "I am a teacher"
 
 3. متى - "when?" - visit me whenever you want 
 
+
+## Secondary meanings behind questions 
+
+### 1. الأَمَرْ - command
+
+![](https://i.imgur.com/hEA7x77.png)
+
+"Are you going to stop?" -> "Stop!"
+
+Far more intense than just "stop!"
+
+### 2. النَّهي - Formidding / Prohibition
+
+![](https://i.imgur.com/iHuUlx7.png)
+
+Don't fear. لاتَخْشَوْهُم 
+
+### 3. التسوية
+
+![](https://i.imgur.com/DMn7JWW.png)
+
+Whether you did this or not ...
+
+### 4. النفي - Negation
+
+![](https://i.imgur.com/OJFb9Y6.png)
+
+### 5. الإنكار - Refutation
+
+![](https://i.imgur.com/ecCnSsv.png)
+
+"Do you dare to call other than Allah ?"
+
+
+### 6. التَشْوِيق
+
+To make someone interested, to draw someone in
+
+![](https://i.imgur.com/J7q7EZq.png)
+
+More secondary meaning in nest blog Inshallah
+
+
 ### More Resources :
 
 By Bayyinah Dream Students
