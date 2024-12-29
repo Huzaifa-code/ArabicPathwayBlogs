@@ -146,8 +146,42 @@ To make someone interested, to draw someone in
 
 ![](https://i.imgur.com/J7q7EZq.png)
 
-More secondary meaning in nest blog Inshallah
+### 7. الإستِءْناس
 
+- Motivational Speech
+- A question that expresses love behind it. Laazim ul Faaida (When you ask somebody something that you already know)
+
+![](https://i.imgur.com/cNFrdyS.png)
+
+### 8. التَّقْرير
+
+- To affirm / reinforce
+- A question used to make a firm statement equivalent to إنّ or لقد
+- Demands an answer 
+
+
+![](https://i.imgur.com/K7E7JMi.png)
+
+
+### 9. التَّهْوِيل
+
+To terrify / intimidate
+
+![](https://i.imgur.com/FsN4Ugb.png)
+
+
+### 10. الْاِسْتِبْعاد
+
+To talk about something that's ulikely/impossible
+
+
+![](https://i.imgur.com/fv7Vcj7.png)
+
+### 11. التَعْظِيْم
+
+- To make something a big deal
+
+![](https://i.imgur.com/YGPrKTE.png)
 
 ### More Resources :
 
