@@ -23,13 +23,17 @@ Linguistic meaning of Balagha :
 
 ### Technical Definition of Balagha :
 
-The technical definition of balāgha (بلاغة) is commonly summarized in Arabic as مُطَابَقَةُ الكَلاَمِ لِمُقْتَضَى الحَالِ (mutaqābatul kalām li-muqtaḍā al-ḥāl), which translates to "When speech corresponds to the needs of the situation"
+The technical definition of balāgha (بلاغة) is commonly summarized in Arabic as
+
+ مُطَابَقَةُ الكَلاَمِ لِمُقْتَضَى الحَالِ (mutaqābatul kalām li-muqtaḍā al-ḥāl), 
+
+which translates to "When speech corresponds to the needs of the situation"
 
 Like if someone stole your phone, you will not explain everything about this thing like "That is a theif.I was just sitting at the cafe ...". You will just say "theif" and that is enough.
 
 ## Balagha is studied in 3 parts : 
 
-1. Ilm Al-M'ani علم المعاني - 
+### 1. Ilm Al-M'ani علم المعاني - 
 	
 	Language.linguistic techniques (Nahw and sarf) used to communicate (create) special meanings
 
@@ -39,20 +43,21 @@ Like if someone stole your phone, you will not explain everything about this thi
 	Who you talking about
 	3. القيد   Qayd
 
-Examples : 
-		إِيَّاكَ  نَعْبُدُ  وَإِيَّاكَ  نَسْتَعِينُ 
-		
-Here in this ayah , Musnad Ilaih is "we" (who you talking about) and musnad is "worship and ask help"
-		
-۞ ٱللَّهُ  نُورُ  ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ
+	Examples : 
+			إِيَّاكَ  نَعْبُدُ  وَإِيَّاكَ  نَسْتَعِينُ 
+			
+	Here in this ayah , Musnad Ilaih is "we" (who you talking about) and musnad is "worship and ask help"
+			
+	۞ ٱللَّهُ  نُورُ  ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ
 
-Here Lafdul-Jalaalah is Musnad Ilaih,نُورُ Nur is Musnad and what is its restrictions - ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ is Qayd 
+	Here Lafdul-Jalaalah is Musnad Ilaih,نُورُ Nur is Musnad and what is its restrictions - ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ is Qayd 
 
-ٱلْحَمْدُ  لِلَّهِ  رَبِّ  ٱلْعَٰلَمِينَ 
+	ٱلْحَمْدُ  لِلَّهِ  رَبِّ  ٱلْعَٰلَمِينَ 
 
-Here ٱلْحَمْدُ is Musnad Ilaih (who you talking about), For Allah لِلَّهِ is Musnad
+	Here ٱلْحَمْدُ is Musnad Ilaih (who you talking about), For Allah لِلَّهِ is Musnad
 
-2. Ilm Al-Bayan علم البيان - Figures of speech
+### 2. Ilm Al-Bayan علم البيان - Figures of speech
+
 	Ilm al-Bayan is the science of "clarity" or "expression." It focuses on different ways of expressing the same idea, especially through figures of speech. It emphasizes how to convey meanings clearly, vividly, and powerfully. Key concepts include:
 
 	Tashbih (تشبيه): Simile, where one thing is likened to another using words like "like" or "as."
@@ -61,8 +66,11 @@ Here ٱلْحَمْدُ is Musnad Ilaih (who you talking about), For Allah لِ�
 
 	Majaz (مجاز): Figurative language or idiom, where words are used in non-literal ways to add depth or nuance.
 
-3. Ilm Al-Badee' علم البديع
+### 3. Ilm Al-Badee' علم البديع
 
+	It is about how you make speech more stylish/artisitic...
+
+	when something is added for scheme, sound, style, rhyme ...
 
 
 
