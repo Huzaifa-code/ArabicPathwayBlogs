@@ -35,42 +35,42 @@ Like if someone stole your phone, you will not explain everything about this thi
 
 ### 1. Ilm Al-M'ani علم المعاني - 
 	
-	Language.linguistic techniques (Nahw and sarf) used to communicate (create) special meanings
+Language.linguistic techniques (Nahw and sarf) used to communicate (create) special meanings
 
-	1. المُسْنَدُ     
+1. المُسْنَدُ     
 	Musnad  -  What you saying about them
-	2. المُسْنَدُ إلَيْهِ    Musnad Ilaih
+2. المُسْنَدُ إلَيْهِ    Musnad Ilaih
 	Who you talking about
-	3. القيد   Qayd
+3. القيد   Qayd
 
-	Examples : 
-			إِيَّاكَ  نَعْبُدُ  وَإِيَّاكَ  نَسْتَعِينُ 
-			
-	Here in this ayah , Musnad Ilaih is "we" (who you talking about) and musnad is "worship and ask help"
-			
-	۞ ٱللَّهُ  نُورُ  ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ
+Examples : 
+		إِيَّاكَ  نَعْبُدُ  وَإِيَّاكَ  نَسْتَعِينُ 
+		
+Here in this ayah , Musnad Ilaih is "we" (who you talking about) and musnad is "worship and ask help"
+		
+۞ ٱللَّهُ  نُورُ  ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ
 
-	Here Lafdul-Jalaalah is Musnad Ilaih,نُورُ Nur is Musnad and what is its restrictions - ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ is Qayd 
+Here Lafdul-Jalaalah is Musnad Ilaih,نُورُ Nur is Musnad and what is its restrictions - ٱلسَّمَٰوَٰتِ  وَٱلْأَرْضِ is Qayd 
 
-	ٱلْحَمْدُ  لِلَّهِ  رَبِّ  ٱلْعَٰلَمِينَ 
+ٱلْحَمْدُ  لِلَّهِ  رَبِّ  ٱلْعَٰلَمِينَ 
 
-	Here ٱلْحَمْدُ is Musnad Ilaih (who you talking about), For Allah لِلَّهِ is Musnad
+Here ٱلْحَمْدُ is Musnad Ilaih (who you talking about), For Allah لِلَّهِ is Musnad
 
 ### 2. Ilm Al-Bayan علم البيان - Figures of speech
 
-	Ilm al-Bayan is the science of "clarity" or "expression." It focuses on different ways of expressing the same idea, especially through figures of speech. It emphasizes how to convey meanings clearly, vividly, and powerfully. Key concepts include:
+Ilm al-Bayan is the science of "clarity" or "expression." It focuses on different ways of expressing the same idea, especially through figures of speech. It emphasizes how to convey meanings clearly, vividly, and powerfully. Key concepts include:
 
-	Tashbih (تشبيه): Simile, where one thing is likened to another using words like "like" or "as."
+Tashbih (تشبيه): Simile, where one thing is likened to another using words like "like" or "as."
 
-	Isti'ara (استعارة): Metaphor, where one thing is implied to be another without using "like" or "as."
+Isti'ara (استعارة): Metaphor, where one thing is implied to be another without using "like" or "as."
 
-	Majaz (مجاز): Figurative language or idiom, where words are used in non-literal ways to add depth or nuance.
+Majaz (مجاز): Figurative language or idiom, where words are used in non-literal ways to add depth or nuance.
 
 ### 3. Ilm Al-Badee' علم البديع
 
-	It is about how you make speech more stylish/artisitic...
+It is about how you make speech more stylish/artisitic...
 
-	when something is added for scheme, sound, style, rhyme ...
+when something is added for scheme, sound, style, rhyme ...
 
 
 
