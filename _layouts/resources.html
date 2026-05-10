@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="resources-page">
+  <!-- Hero Section -->
+  <div class="hero-section">
+    <h1 class="hero-title">{{ page.title | default: "Learning Resources" }}</h1>
+    <p class="hero-subtitle">Handpicked materials, books, and tools to aid your journey in understanding Quranic Arabic.</p>
+    
+    <div class="hero-actions">
+      <a href="https://t.me/+ZIxsiCL0r4s4Yjlh" class="btn-primary telegram-btn">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM12.191 5.27c-.185-.183-.453-.284-.712-.271l-8.52 1.31a.75.75 0 0 0-.11 1.386l2.13 1.106 1.05 3.102a.75.75 0 0 0 1.257.273l1.534-1.87 2.323 1.701a.75.75 0 0 0 1.188-.415l1.5-7.5a.75.75 0 0 0-.64-.824z"/></svg>
+        Join Telegram Discussion
+      </a>
+    </div>
+
+    <!-- Quick Access Navigation -->
+    <div class="resources-quick-nav">
+      <div class="quick-nav-container">
+        <a href="#nt" class="nav-pill">Notes</a>
+        <a href="#bk" class="nav-pill">Books</a>
+        <a href="#bayyinah" class="nav-pill">Bayyinah</a>
+        <a href="#wb" class="nav-pill">Websites</a>
+        <a href="#yt" class="nav-pill">YouTube</a>
+        <a href="#qt" class="nav-pill">Tafsir</a>
+        <a href="#qh" class="nav-pill">Tools</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrapper">
+    <div class="resources-content">
+      {{ content }}
+    </div>
+  </div>
+</div>

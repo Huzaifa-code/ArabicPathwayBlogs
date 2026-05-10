@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Arabic Pathway
-email: developerhuzaifa@gmail.com
+email: huzaifaqureshi037@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Let's explore and learn Quranic Arabic from basics to advance
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blogs.arabicpathway.site" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arabic_pathway
-github_username:  
+github_username: Huzaifa-code
 
 # Build settings
 theme: minima
@@ -35,7 +35,9 @@ plugins:
 
 sass:
   sass_dir: _sass
-  style: compressed # You can use expanded, nested, or compact as per your needs.
+  style: compressed
+  quiet_deps: true
+
 
 minima:
   skin: dark
