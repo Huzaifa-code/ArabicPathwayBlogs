@@ -1,28 +1,8 @@
 ---
-layout: page
+layout: resources
 title: Resources
 permalink: /resources/
 ---
-
-![Alt text](https://res.cloudinary.com/ddymelpa3/image/upload/f_auto,q_auto/v1/arabic%20blogs/vtrf381bdbtrfayj0rkk "Resources")
-
-## Join the Discussion on Telegram 
-[Dream Study Group](https://t.me/+ZIxsiCL0r4s4Yjlh)
-
-
-## Table of Content
-- <a href="#nt">Notes</a> 
-- <a href="#bk">Books</a> 
-- <a href="#bayyinah">Bayyinah</a> 
-- <a href="#wb">Webistes & Blogs</a> 
-- <a href="#yt">YouTube Arabic Resources</a> 
-- <a href="#qt">Quran Tafsirs</a>
-- <a href="#qh">Quran Hive - quranhive.com</a> 
-- <a href="#ara">Aratools - aratools.com</a> 
-- <a href="#cq">corpus quran</a> 
-- <a href="#ejt">ejtaal.net - Dictionary</a> 
-- <a href="#tf">tafsir.app</a> 
-- <a href="#al">almaany - https://www.almaany.com/ar/dict/ar-ar/</a> 
 
 Resources to Learn Arabic to understand the Quran
 

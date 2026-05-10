@@ -3,64 +3,125 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <!-- Hero Section -->
+  <div class="hero-section">
+    {%- if page.title -%}
+      <h1 class="hero-title">{{ page.title }}</h1>
+    {%- else -%}
+      <h1 class="hero-title">Arabic Pathway Blogs</h1>
+    {%- endif -%}
+    
+    <p class="hero-subtitle">Let's Learn Quranic Arabic Together one blog at a time</p>
 
-  <!-- This h1 is for SEO -->
-  <h1 style="color: transparent; font-size: 1px; margin: 0!important; padding: 0!important;">Let's Learn Quranic Arabic Together one blog at a time</h1>
+    <!-- Search Bar -->
+    <div class="search-container">
+      <div class="search-input-wrapper">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="text" id="search-input" placeholder="Search for posts..." />
+      </div>
+      <ul id="results-container"></ul>
+    </div>
+  </div>
   
   {{ content }}
 
-  <div class="search-container">
-    <input type="text" id="search-input" placeholder="Search for posts..." />
-    <ul id="results-container"></ul>
-  </div>
-  
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    {% assign featured_urls = "/basic_nahw/basic_sarf/2024/09/10/Beginner-guide-to-learn-arabic.html,/basic_nahw/basic_sarf/2024/09/15/Important-terms-for-arabic-study.html,/sarf/2024/09/12/How-to-use-dictionary-for-sarf-study.html" | split: "," %}
+    
+    <div class="featured-section">
+      <h2 class="post-list-heading">Featured Blogs</h2>
+      <ul class="post-list featured-post-list">
+        {%- for post in site.posts -%}
+          {%- if featured_urls contains post.url -%}
+          <li>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <div class="post-image-wrapper">
+                {%- if post.img -%}
+                <img src={{post.img}} alt="{{ post.title | escape }}">
+                {%- else -%}
+                <div class="post-image-placeholder"></div>
+                {%- endif -%}
+
+                {%- if post.categories -%}
+                  <div class="post-category-badges">
+                    {%- for category in post.categories -%}
+                      <span class="badge">{{ category }}</span>
+                    {%- endfor -%}
+                  </div>
+                {%- endif -%}
+              </div>
+
+              <div class="post-content-wrapper">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <div class="post-meta-header">
+                  <span class="post-date">{{ post.date | date: date_format }}</span>
+                  {%- if post.author -%}
+                   <span class="post-author"> • {{ post.author }}</span>
+                  {%- endif -%}
+                </div>
+                
+                <h3 class="ar-r post-card-title">
+                    {{ post.title | escape }}
+                </h3>
+
+                {%- if post.description -%}
+                  {% assign truncated_description = post.description | truncate: 80 %}
+                    <p class="post-desc">
+                      {{ truncated_description }}
+                    </p>
+                {%- endif -%}
+              </div>
+            </a>
+          </li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
     {%- include filter.html -%} 
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li class="post-item" data-category="{{ post.categories | join: ' ' }}">
         <a class="post-link" href="{{ post.url | relative_url }}">
 
-          {%- if post.img -%}
-          <img src={{post.img}} >
-          {%- endif -%}
-
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}
-            {%- if post.author -%}
-             • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="post-meta" itemprop="name">{{ post.author }}</span></span>
+          <div class="post-image-wrapper">
+            {%- if post.img -%}
+            <img src={{post.img}} alt="{{ post.title | escape }}">
+            {%- else -%}
+            <div class="post-image-placeholder"></div>
             {%- endif -%}
-          </span>
-          
 
-          <h3 class="ar-r" >
-              {{ post.title | escape }}
-          </h3>
+            {%- if post.categories -%}
+              <div class="post-category-badges">
+                {%- for category in post.categories -%}
+                  <span class="badge">{{ category }}</span>
+                {%- endfor -%}
+              </div>
+            {%- endif -%}
+          </div>
 
-          {%- if post.description -%}
-            {% assign truncated_description = post.description | truncate: 60 %}
-              <p class="post-desc">
-                {{ truncated_description }}
-              </p>
-          {%- endif -%}
-
-
-          {%- if post.categories -%}
-            <div class="post-category">
-              {%- for category in post.categories -%}
-                <p>{{ category }}</p>
-              {%- endfor -%}
+          <div class="post-content-wrapper">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <div class="post-meta-header">
+              <span class="post-date">{{ post.date | date: date_format }}</span>
+              {%- if post.author -%}
+               <span class="post-author"> • {{ post.author }}</span>
+              {%- endif -%}
             </div>
-          {%- endif -%}
+            
+            <h3 class="ar-r post-card-title">
+                {{ post.title | escape }}
+            </h3>
 
+            {%- if post.description -%}
+              {% assign truncated_description = post.description | truncate: 80 %}
+                <p class="post-desc">
+                  {{ truncated_description }}
+                </p>
+            {%- endif -%}
+          </div>
 
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
         </a>
       </li>
       {%- endfor -%}

@@ -25,25 +25,30 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1200px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        1200px !default;
 
 // Default colors - CSS var are dynamic , scss var are static(compile time)
 :root {
   --grey-color: #666666;
+  --grey-color-light: #e0e0e0;
   --text-color: #111; /* Dark text color */
-  --background-color: #fff; /* Dark background */
+  --background-color: #fcfcfc; /* Light background */
+  --cardbg-color: #ffffff;
+  --brand-color: #1658e6;
   --highlight-color: rgba(175, 255, 94, 0.788);
   --list-color: #6e6e6e;
 }
 
 [data-theme="dark"] {
-  --background-color: #181818; /* Dark background */
-  --text-color: #cfcfcf; /* Dark text color */
-  --cardbg-color: #2e2e2e;
+  --background-color: #121212; /* Dark background */
+  --text-color: #f0f0f0; /* Dark text color */
+  --cardbg-color: #1e1e1e;
+  --brand-color: #3b82f6;
   --grey-color: #afafaf;
+  --grey-color-light: #333333;
   --highlight-color: rgba(153, 75, 255, 0.8);
   --list-color: #e6e6e6;
 }

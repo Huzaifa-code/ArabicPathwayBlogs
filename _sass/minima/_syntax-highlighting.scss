@@ -9,69 +9,320 @@
     background: #eef;
   }
 
-  .c     { color: #998; font-style: italic } // Comment
-  .err   { color: #a61717; background-color: #e3d2d2 } // Error
-  .k     { font-weight: bold } // Keyword
-  .o     { font-weight: bold } // Operator
-  .cm    { color: #998; font-style: italic } // Comment.Multiline
-  .cp    { color: #999; font-weight: bold } // Comment.Preproc
-  .c1    { color: #998; font-style: italic } // Comment.Single
-  .cs    { color: #999; font-weight: bold; font-style: italic } // Comment.Special
-  .gd    { color: #000; background-color: #fdd } // Generic.Deleted
-  .gd .x { color: #000; background-color: #faa } // Generic.Deleted.Specific
-  .ge    { font-style: italic } // Generic.Emph
-  .gr    { color: #a00 } // Generic.Error
-  .gh    { color: #999 } // Generic.Heading
-  .gi    { color: #000; background-color: #dfd } // Generic.Inserted
-  .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
-  .go    { color: #888 } // Generic.Output
-  .gp    { color: #555 } // Generic.Prompt
-  .gs    { font-weight: bold } // Generic.Strong
-  .gu    { color: #aaa } // Generic.Subheading
-  .gt    { color: #a00 } // Generic.Traceback
-  .kc    { font-weight: bold } // Keyword.Constant
-  .kd    { font-weight: bold } // Keyword.Declaration
-  .kp    { font-weight: bold } // Keyword.Pseudo
-  .kr    { font-weight: bold } // Keyword.Reserved
-  .kt    { color: #458; font-weight: bold } // Keyword.Type
-  .m     { color: #099 } // Literal.Number
-  .s     { color: #d14 } // Literal.String
-  .na    { color: #008080 } // Name.Attribute
-  .nb    { color: #0086B3 } // Name.Builtin
-  .nc    { color: #458; font-weight: bold } // Name.Class
-  .no    { color: #008080 } // Name.Constant
-  .ni    { color: #800080 } // Name.Entity
-  .ne    { color: #900; font-weight: bold } // Name.Exception
-  .nf    { color: #900; font-weight: bold } // Name.Function
-  .nn    { color: #555 } // Name.Namespace
-  .nt    { color: #000080 } // Name.Tag
-  .nv    { color: #008080 } // Name.Variable
-  .ow    { font-weight: bold } // Operator.Word
-  .w     { color: #bbb } // Text.Whitespace
-  .mf    { color: #099 } // Literal.Number.Float
-  .mh    { color: #099 } // Literal.Number.Hex
-  .mi    { color: #099 } // Literal.Number.Integer
-  .mo    { color: #099 } // Literal.Number.Oct
-  .sb    { color: #d14 } // Literal.String.Backtick
-  .sc    { color: #d14 } // Literal.String.Char
-  .sd    { color: #d14 } // Literal.String.Doc
-  .s2    { color: #d14 } // Literal.String.Double
-  .se    { color: #d14 } // Literal.String.Escape
-  .sh    { color: #d14 } // Literal.String.Heredoc
-  .si    { color: #d14 } // Literal.String.Interpol
-  .sx    { color: #d14 } // Literal.String.Other
-  .sr    { color: #009926 } // Literal.String.Regex
-  .s1    { color: #d14 } // Literal.String.Single
-  .ss    { color: #990073 } // Literal.String.Symbol
-  .bp    { color: #999 } // Name.Builtin.Pseudo
-  .vc    { color: #008080 } // Name.Variable.Class
-  .vg    { color: #008080 } // Name.Variable.Global
-  .vi    { color: #008080 } // Name.Variable.Instance
-  .il    { color: #099 } // Literal.Number.Integer.Long
+  .c {
+    color: #998;
+    font-style: italic
+  }
+
+  // Comment
+  .err {
+    color: #a61717;
+    background-color: #e3d2d2
+  }
+
+  // Error
+  .k {
+    font-weight: bold
+  }
+
+  // Keyword
+  .o {
+    font-weight: bold
+  }
+
+  // Operator
+  .cm {
+    color: #998;
+    font-style: italic
+  }
+
+  // Comment.Multiline
+  .cp {
+    color: #999;
+    font-weight: bold
+  }
+
+  // Comment.Preproc
+  .c1 {
+    color: #998;
+    font-style: italic
+  }
+
+  // Comment.Single
+  .cs {
+    color: #999;
+    font-weight: bold;
+    font-style: italic
+  }
+
+  // Comment.Special
+  .gd {
+    color: #000;
+    background-color: #fdd
+  }
+
+  // Generic.Deleted
+  .gd .x {
+    color: #000;
+    background-color: #faa
+  }
+
+  // Generic.Deleted.Specific
+  .ge {
+    font-style: italic
+  }
+
+  // Generic.Emph
+  .gr {
+    color: #a00
+  }
+
+  // Generic.Error
+  .gh {
+    color: #999
+  }
+
+  // Generic.Heading
+  .gi {
+    color: #000;
+    background-color: #dfd
+  }
+
+  // Generic.Inserted
+  .gi .x {
+    color: #000;
+    background-color: #afa
+  }
+
+  // Generic.Inserted.Specific
+  .go {
+    color: #888
+  }
+
+  // Generic.Output
+  .gp {
+    color: #555
+  }
+
+  // Generic.Prompt
+  .gs {
+    font-weight: bold
+  }
+
+  // Generic.Strong
+  .gu {
+    color: #aaa
+  }
+
+  // Generic.Subheading
+  .gt {
+    color: #a00
+  }
+
+  // Generic.Traceback
+  .kc {
+    font-weight: bold
+  }
+
+  // Keyword.Constant
+  .kd {
+    font-weight: bold
+  }
+
+  // Keyword.Declaration
+  .kp {
+    font-weight: bold
+  }
+
+  // Keyword.Pseudo
+  .kr {
+    font-weight: bold
+  }
+
+  // Keyword.Reserved
+  .kt {
+    color: #458;
+    font-weight: bold
+  }
+
+  // Keyword.Type
+  .m {
+    color: #099
+  }
+
+  // Literal.Number
+  .s {
+    color: #d14
+  }
+
+  // Literal.String
+  .na {
+    color: #008080
+  }
+
+  // Name.Attribute
+  .nb {
+    color: #0086B3
+  }
+
+  // Name.Builtin
+  .nc {
+    color: #458;
+    font-weight: bold
+  }
+
+  // Name.Class
+  .no {
+    color: #008080
+  }
+
+  // Name.Constant
+  .ni {
+    color: #800080
+  }
+
+  // Name.Entity
+  .ne {
+    color: #900;
+    font-weight: bold
+  }
+
+  // Name.Exception
+  .nf {
+    color: #900;
+    font-weight: bold
+  }
+
+  // Name.Function
+  .nn {
+    color: #555
+  }
+
+  // Name.Namespace
+  .nt {
+    color: #000080
+  }
+
+  // Name.Tag
+  .nv {
+    color: #008080
+  }
+
+  // Name.Variable
+  .ow {
+    font-weight: bold
+  }
+
+  // Operator.Word
+  .w {
+    color: #bbb
+  }
+
+  // Text.Whitespace
+  .mf {
+    color: #099
+  }
+
+  // Literal.Number.Float
+  .mh {
+    color: #099
+  }
+
+  // Literal.Number.Hex
+  .mi {
+    color: #099
+  }
+
+  // Literal.Number.Integer
+  .mo {
+    color: #099
+  }
+
+  // Literal.Number.Oct
+  .sb {
+    color: #d14
+  }
+
+  // Literal.String.Backtick
+  .sc {
+    color: #d14
+  }
+
+  // Literal.String.Char
+  .sd {
+    color: #d14
+  }
+
+  // Literal.String.Doc
+  .s2 {
+    color: #d14
+  }
+
+  // Literal.String.Double
+  .se {
+    color: #d14
+  }
+
+  // Literal.String.Escape
+  .sh {
+    color: #d14
+  }
+
+  // Literal.String.Heredoc
+  .si {
+    color: #d14
+  }
+
+  // Literal.String.Interpol
+  .sx {
+    color: #d14
+  }
+
+  // Literal.String.Other
+  .sr {
+    color: #009926
+  }
+
+  // Literal.String.Regex
+  .s1 {
+    color: #d14
+  }
+
+  // Literal.String.Single
+  .ss {
+    color: #990073
+  }
+
+  // Literal.String.Symbol
+  .bp {
+    color: #999
+  }
+
+  // Name.Builtin.Pseudo
+  .vc {
+    color: #008080
+  }
+
+  // Name.Variable.Class
+  .vg {
+    color: #008080
+  }
+
+  // Name.Variable.Global
+  .vi {
+    color: #008080
+  }
+
+  // Name.Variable.Instance
+  .il {
+    color: #099
+  }
+
+  // Literal.Number.Integer.Long
 }
 
 // Quran Ayah
-.q{
+.q {
   font-size: 2rem;
   line-height: 2;
   direction: rtl;
@@ -79,88 +330,143 @@
   font-weight: 500;
   font-style: normal;
 
-  background-color: #fcfcfc; /* Light grey background for highlighting */
-  padding: 30px 15px; /* Adds padding around the text */
-  border-left: 5px solid $brand-color; /* A blue border for emphasis */
-  border-radius: 8px; /* Slightly rounded corners */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  background-color: #fcfcfc;
+  /* Light grey background for highlighting */
+  padding: 30px 15px;
+  /* Adds padding around the text */
+  border-left: 5px solid $brand-color;
+  /* A blue border for emphasis */
+  border-radius: 8px;
+  /* Slightly rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  /* Soft shadow for depth */
 }
 
-.hl{
-  // background-color: rgba(243, 255, 74, 0.719);
-  border-radius: 11px;
-  display: inline-block; // Ensure the highlight wraps only around the text
-  height: 1.2em; // Fixed height
-  position: relative; // Required to position the ::after pseudo-element
-  padding: 5px 11px;
+.hl {
+  position: relative;
+  display: inline-block;
+  padding: 0 4px;
+  z-index: 1;
+  color: inherit;
+  font-weight: 600;
 
   &::after {
     content: "";
     position: absolute;
-    top: 11px;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(243, 255, 74, 0.719); // Same background color
-    z-index: -1; // Ensure it appears behind the text
-    border-radius: 11px;
+    top: 15%;
+    left: -2px;
+    width: calc(100% + 4px);
+    height: 80%;
+    background-color: rgba(255, 235, 59, 0.7); // Highlighter yellow
+    z-index: -1;
+    transform: rotate(-1deg);
+    border-radius: 4px 8px 3px 6px;
+    box-shadow: 0 0 2px rgba(255, 235, 59, 0.3); // Slight bleeding effect
+  }
+
+  [data-theme="dark"] & {
+    color: #000; // Text inside yellow highlight should be dark
+
+    &::after {
+      background-color: rgba(255, 213, 79, 0.9); // brighter for dark mode contrast
+    }
   }
 }
 
 // underline highlight on headers
 // Post content in Blogs not in other pages 
 .post-content.blog {
-  h1, h2, h3 , h4 {
+
+  h1,
+  h2,
+  h3,
+  h4 {
     position: relative;
     display: inline-block;
   }
 
-  h1::after, h2::after ,  h3::after {
+  h1::after,
+  h2::after,
+  h3::after {
     content: '';
     position: absolute;
-    left: 0;
-    bottom: -4px; /* Align at the bottom of the text */
-    width: 100%;
-    height: 30px; /* Thickness of the highlight */
+    left: -8px;
+    /* Extend to the left */
+    bottom: -2px;
+    /* Align at the bottom of the text */
+    width: calc(100% + 16px);
+    /* Extend past the text to the right */
+    height: 30px;
+    /* Thickness of the highlight */
     // background-color: rgba(175, 255, 94, 0.788);
     background-color: var(--highlight-color);
-    z-index: -1; /* Ensure it stays behind the text */
-    transform: translateY(3px); /* Slightly overlap the text */
+    z-index: -1;
+    /* Ensure it stays behind the text */
+    transform: translateY(3px) rotate(-1deg);
+    /* Slightly overlap the text and rotate for manual look */
+    border-radius: 4px 8px 3px 6px;
+    /* Give it a marker-like asymmetrical shape */
   }
 }
 
 .note {
-  background-color: #fffde7;
-  border-left: 4px solid #ffd54f;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  padding: 16px 20px;
-  font-size: 18px;
-  font-weight: 600;
-  color: #333333;
-  line-height: 1.6;
-  margin: 20px 0;
+  background: rgba(255, 235, 59, 0.05);
+  border: 1px solid rgba(255, 235, 59, 0.2);
+  border-left: 5px solid #ffd54f;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
+  padding: 1.5rem 2rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--text-color);
+  line-height: 1.7;
+  margin: 2.5rem 0;
   position: relative;
   overflow: hidden;
-  transition: all 0.3s ease;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 
-  .ar {
-    font-size: x-large;
+  [data-theme="dark"] & {
+    background: rgba(255, 213, 79, 0.05);
+    border: 1px solid rgba(255, 213, 79, 0.1);
+    border-left: 5px solid #ffb300;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   }
 
-}
+  .ar {
+    font-size: 1.4em;
+    margin-top: 0.5rem;
+  }
 
-.note::before {
-  content: '📝';
-  position: absolute;
-  top: -5px;
-  right: 10px;
-  font-size: 24px;
-  opacity: 0.3;
-  transform: rotate(15deg);
-}
+  &::before {
+    content: '💡';
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    font-size: 6rem;
+    opacity: 0.06;
+    transform: rotate(-15deg);
+    transition: transform 0.4s ease, opacity 0.4s ease;
 
-.note:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    [data-theme="dark"] & {
+      opacity: 0.04;
+    }
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 15px 35px rgba(255, 213, 79, 0.1);
+
+    [data-theme="dark"] & {
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+    }
+
+    &::before {
+      transform: rotate(0deg) scale(1.1);
+      opacity: 0.1;
+
+      [data-theme="dark"] & {
+        opacity: 0.08;
+      }
+    }
+  }
 }
